@@ -12,4 +12,4 @@
 
 🤟 - Xmonad Lover
 
-😉 - Arch lOver
+😉 - Arch Lover
