@@ -38,7 +38,7 @@ Most of these repos are somewhat hard to setup.Actually for making it difficult 
 ## All these Repos backups of my old linux setup
 You can also check my linux rices in reddit [ Chandra_004](https://www.reddit.com/user/chandra_004)
 If you want a preview of all my setups
-```sh
+
 About Myself
 
 I'm a highschool student , amateur coder
@@ -58,5 +58,5 @@ FILEMANAGER :  DMENUFM
 WINDOW MANAGER : XMONAD
 FAV LANG : HASKELL
 TERMINAL EMU : URXVTCD , ALACRITTY , TEMONAD
-```
+
 
