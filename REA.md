@@ -12,7 +12,7 @@
 |Xmonad-tutorial Website                             |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
 
 #### Dependencies
-|                        | [Tested only on][Tested only on] &nbsp;&nbsp; [Arch & Arco][Arch & Arco]                     |
+|        Repos           |           Only tested on Arch , Arco , Artix-Partially (only the BSPWM one works             |
 |------------------------|----------------------------------------------------------------------------------------------|
 | **The Rest**           | Xmonad , Xmonad-log , Xmonad-contrib , Xmonad-util , Polybar , Dmenu2                        |
 | **ArtixRice**          | BSPWM , SXHKD , Polybar , Rofi , Dmenu                                                       |
