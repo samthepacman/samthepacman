@@ -46,7 +46,7 @@ If you want a preview of all my setups
 
 - My Linux journey ---> Kali > ParrotSec > Steam > Xebian (Debian Sid) > Solus > Sabayon > VoidLinux > Mainline Arch > ? ( Will be updated in the future ) 
 
-- I'm Chandrasekar
+- my name is chandra
 - I live in India
 - I'm 14 Y/O
 
