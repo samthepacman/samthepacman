@@ -5,14 +5,14 @@
 ### Distro Packages
 |Distro|Install Command/Links|
 |:-----------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
-|![ArtixRice Repo ][ArtixRice Repo]                     |Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)                                            |
-|![dotfiles Repo ][dotfiles Repo]                       |2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)                                                                      |
-|![Dmonad Repo ][Dmonad Repo]                           |Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)                                             |
-|![Mini Repo ][Mini Repo]                               |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)                                             |
-|![Xmonad-tutorial Website][Xmonad-tutorial Website]    |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/) |
+|[ArtixRice Repo ][ArtixRice Repo]                     |Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)                                            |
+|[dotfiles Repo ][dotfiles Repo]                       |2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)                                                                      |
+|[Dmonad Repo ][Dmonad Repo]                           |Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)                                             |
+|[Mini Repo ][Mini Repo]                               |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)                                             |
+|[Xmonad-tutorial Website][Xmonad-tutorial Website]    |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/) |
 
 #### Dependencies
-|                        | ![Tested only on][Tested only on] &nbsp;&nbsp; ![Arch & Arco][Arch & Arco]                   |
+|                        | [Tested only on][Tested only on] &nbsp;&nbsp; [Arch & Arco][Arch & Arco]                     |
 |------------------------|----------------------------------------------------------------------------------------------|
 | **The Rest**           | Xmonad , Xmonad-log , Xmonad-contrib , Xmonad-util , Polybar , Dmenu2                        |
 | **ArtixRice**          | BSPWM , SXHKD , Polybar , Rofi , Dmenu                                                       |
