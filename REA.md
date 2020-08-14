@@ -39,7 +39,7 @@ Most of these repos are somewhat hard to setup.Actually for making it difficult 
 You can also check my linux rices in reddit [ Chandra_004](https://www.reddit.com/user/chandra_004)
 If you want a preview of all my setups
 
-> ***## About Myself***
+## > *** About Myself***
 
 - I'm a highschool student , amateur coder
 - Mostly on my Laptop
