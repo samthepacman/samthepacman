@@ -51,6 +51,8 @@ If you want a preview of all my setups
 - 🏫 I'm a highschool student , 🖥️ amateur coder
 - 💻 Mostly on my Laptop
 
+****
+
 - My Linux journey 
 ---> Kali 
 | ParrotSec 
@@ -61,9 +63,13 @@ If you want a preview of all my setups
 | Mainline Arch 
 | ? ( Will be updated in the future ) 
 
+****
+
 - 😀 my name is chandra
 - 💖 I live in India
 - 👦 I'm 14 Y/O
+
+****
 
 - My Linux Specs
 
