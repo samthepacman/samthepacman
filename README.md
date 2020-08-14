@@ -51,7 +51,15 @@ If you want a preview of all my setups
 - I'm a highschool student , amateur coder
 - Mostly on my Laptop
 
-- My Linux journey ---> Kali > ParrotSec > Steam > Xebian (Debian Sid) > Solus > Sabayon > VoidLinux > Mainline Arch > ? ( Will be updated in the future ) 
+- My Linux journey ---> Kali 
+                         |___ ParrotSec 
+                                   |___ SteamOS 
+                                           |___ Xebian (Debian Sid) 
+                                                  |___ Solus 
+                                                          |___ Sabayon 
+                                                                  |___ VoidLinux 
+                                                                             |___ Mainline Arch 
+                                                                                           |____? ( Will be updated in the future ) 
 
 - my name is chandra
 - I live in India
