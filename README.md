@@ -1,3 +1,5 @@
+# My Repo Info
+
 <p align="center">
   <img alt="Sam's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sam1431&show_icons=true&include_all_commits=true&hide_border=true" 
 />
@@ -46,8 +48,8 @@ Most of these repos are somewhat hard to setup.Actually for making it difficult 
 You can also check my linux rices in reddit [ Chandra_004](https://www.reddit.com/user/chandra_004)
 If you want a preview of all my setups
 
-## > *** About Myself***
 
+## About Myself 
 - 🏫 I'm a highschool student , 🖥️ amateur coder
 - 💻 Mostly on my Laptop
 
