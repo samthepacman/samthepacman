@@ -18,8 +18,6 @@
 | **ArtixRice**          | BSPWM , SXHKD , Polybar , Rofi , Dmenu                                                       |
 
 
-> ***NOTE:*** These instructions are for the `master` branch. To build the latest release, please see the `stable` branch.
-
 #### Location
 ```sh
 xmonad.hs                         |------------  ~/home
@@ -39,24 +37,24 @@ Most of these repos are somewhat hard to setup.Actually for making it difficult 
 You can also check my linux rices in reddit [ Chandra_004](https://www.reddit.com/user/chandra_004)
 If you want a preview of all my setups
 
-About Myself
+## About Myself
 
-I'm a highschool student , amateur coder
-Mostly on my Laptop
+- I'm a highschool student , amateur coder
+- Mostly on my Laptop
 
-My Linux journey ---> Kali > ParrotSec > Steam > Xebian (Debian Sid) > Solus > Sabayon > VoidLinux > Mainline Arch > ? ( Will be updated in the future ) 
+- My Linux journey ---> Kali > ParrotSec > Steam > Xebian (Debian Sid) > Solus > Sabayon > VoidLinux > Mainline Arch > ? ( Will be updated in the future ) 
 
-I'm Chandrasekar
-I live in India
-I'm 14 Y/O
+- I'm Chandrasekar
+- I live in India
+- I'm 14 Y/O
 
-My Linux Specs
+- My Linux Specs
 
-OS : ARCH
-MUSIC PLAYER : MOCP
-FILEMANAGER :  DMENUFM
-WINDOW MANAGER : XMONAD
-FAV LANG : HASKELL
-TERMINAL EMU : URXVTCD , ALACRITTY , TEMONAD
+- OS : ARCH
+- MUSIC PLAYER : MOCP
+- FILEMANAGER :  DMENUFM
+- WINDOW MANAGER : XMONAD
+- FAV LANG : HASKELL
+- TERMINAL EMU : URXVTCD , ALACRITTY , TEMONAD
 
 
