@@ -1,4 +1,4 @@
-# Sam1431
+> # Sam1431
 
 ## My DOTFILES
 
@@ -11,12 +11,14 @@
 |Mini Repo                                           |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
 |Xmonad-tutorial Website                             |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
 
+
+****
 #### Dependencies
 |        Repos           |           Only tested on Arch , Arco , Artix-Partially (only the BSPWM one works             |
 |------------------------|----------------------------------------------------------------------------------------------|
 | **The Rest**           | Xmonad , Xmonad-log , Xmonad-contrib , Xmonad-util , Polybar , Dmenu2                        |
 | **ArtixRice**          | BSPWM , SXHKD , Polybar , Rofi , Dmenu                                                       |
-
+****
 
 #### Location
 ```sh
@@ -37,7 +39,7 @@ Most of these repos are somewhat hard to setup.Actually for making it difficult 
 You can also check my linux rices in reddit [ Chandra_004](https://www.reddit.com/user/chandra_004)
 If you want a preview of all my setups
 
-## About Myself
+> ***## About Myself***
 
 - I'm a highschool student , amateur coder
 - Mostly on my Laptop
@@ -57,4 +59,5 @@ If you want a preview of all my setups
 - FAV LANG : HASKELL
 - TERMINAL EMU : URXVTCD , ALACRITTY , TEMONAD
 
+****
 
