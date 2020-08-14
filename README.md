@@ -53,13 +53,13 @@ If you want a preview of all my setups
 
 - My Linux journey 
 ---> Kali 
-|___ ParrotSec 
-|___ SteamOS 
-|___ Xebian (Debian Sid) 
-|___ Sabayon 
-|___ VoidLinux 
-|___ Mainline Arch 
-|___? ( Will be updated in the future ) 
+| ParrotSec 
+| SteamOS 
+| Xebian (Debian Sid) 
+| Sabayon 
+| VoidLinux 
+| Mainline Arch 
+| ? ( Will be updated in the future ) 
 
 - my name is chandra
 - I live in India
