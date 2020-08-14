@@ -5,11 +5,11 @@
 ### Distro Packages
 |Repo|Setup Reason|
 |:---:|:---:|
-|ArtixRice_Repo                                      |Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)|                                            
-|dotfiles_Repo                                       |2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)|
-|Dmonad_Repo                                         |Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)|                                             
-|Mini_Repo][Mini_Repo                                |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
-|Xmonad-tutorial_Website                             |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
+|ArtixRice Repo                                      |Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)|                                            
+|dotfiles Repo                                       |2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)|
+|Dmonad Repo                                         |Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)|                                             
+|Mini Repo                                           |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
+|Xmonad-tutorial Website                             |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
 
 #### Dependencies
 |                        | [Tested only on][Tested only on] &nbsp;&nbsp; [Arch & Arco][Arch & Arco]                     |
