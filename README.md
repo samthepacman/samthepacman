@@ -41,9 +41,6 @@ dmenu2                            |------------ Compile it
 
 ```
 
-## I won't and will never make anything easy for others from these Repos
-Most of these repos are somewhat hard to setup.Actually for making it difficult I have disabled some options , so that while you setup you will know what you are doing. 
-
 ## All these Repos backups of my old linux setup
 You can also check my linux rices in reddit [ Chandra_004](https://www.reddit.com/user/chandra_004)
 If you want a preview of all my setups
