@@ -73,12 +73,12 @@ If you want a preview of all my setups
 
 - My Linux Specs
 
-- OS : ARCH
-- MUSIC PLAYER : MOCP
-- FILEMANAGER :  DMENUFM
-- WINDOW MANAGER : XMONAD
-- FAV LANG : HASKELL
-- TERMINAL EMU : URXVTCD , ALACRITTY , TEMONAD
+- Os : Gentoo
+- Music Player : MPD , Ncmpcpp
+- FileManager :  Dmenufm
+- Window Manager : (Used Before - i3-gaps,qtile,spectrwm,bspwm,hlwm,sara,openbox,fvwm,xmonad) (rightnow - dwm) (planning to test - exwm)
+- Fav Lang : C , Haskell , HTML , Python
+- Terminal Emulator : Gnome term -> Konsole -> Termite -> Urxvt -> UrxvtCD -> Alacritty -> Kitty -> Termonad -> Sterm ( Manjaro) -> St ( RightNow ) 
 
 ****
  
