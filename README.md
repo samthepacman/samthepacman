@@ -81,4 +81,9 @@ If you want a preview of all my setups
 - TERMINAL EMU : URXVTCD , ALACRITTY , TEMONAD
 
 ****
+ 
+ ***The ethics I follow***
 
+- Do one thing and do it right  
+- Always customise a something to your needs
+- Never expect friendliness if you need efficiency
