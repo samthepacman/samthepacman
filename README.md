@@ -20,6 +20,7 @@
 |Mini Repo                                           |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
 |Xmonad-tutorial Website                             |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
 |Enigma-V-2.0                                        | My xmonad [Rice](https://github.com/Sam1431/Enigma-V-2.0)|
+|wallpapers                                          | The Wallpapers I use in Linux Setup|
 
 
 ****
