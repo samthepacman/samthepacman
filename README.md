@@ -62,6 +62,11 @@ If you want a preview of all my setups
 | Sabayon 
 | VoidLinux 
 | Mainline Arch 
+| Calculate
+| Clover 
+| Pentoo
+| Gentoo [with scripts]
+| Pure Gentoo
 | ? ( Will be updated in the future ) 
 
 ****
