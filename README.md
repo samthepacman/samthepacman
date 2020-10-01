@@ -91,31 +91,30 @@ If you want a preview of all my setups
 3. FileManager :  Dmenufm
 
 4. Window Manager : 
-       * i3-gaps ⬇️
-       * Bspwm   ⬇️
-       * openbox ⬇️
-       * fvwm    ⬇️   
-       * Xmonad  ⬇️
-       * sara    ⬇️
-       * exwm    ⬇️ 
-       * Qtile   ⬇️
+   * i3-gaps ⬇️
+   * Bspwm   ⬇️
+   * openbox ⬇️
+   * fvwm    ⬇️   
+   * Xmonad  ⬇️
+   * sara    ⬇️
+   * exwm    ⬇️ 
+   * Qtile   ⬇️
    
 5. Fav Lang : 
-       * C  
-       * Haskell 
-       * HTML 
-       * Python
+   * C  
+   * Haskell 
+   * HTML 
+   * Python
 
 6. Terminal Emulator : 
-       * Gnome term -> 
-       * Konsole -> 
-       * Termite -> 
-       * Urxvt -> 
-       * UrxvtCD -> 
-       * Alacritty -> 
-       * Kitty -> 
-       * Termonad -> 
-       * Sterm ( Manjaro) -> 
-       * St ( RightNow ) 
+   * Gnome term ->        At the start
+   * Termite ->           When I came to know about configs
+   * Urxvt ->             During the configuration of xresources
+   * UrxvtCD ->           Making urxvt use less memory 
+   * Alacritty ->         after knowing it was the GPU accelerated 
+   * Kitty ->             for Image support
+   * Termonad ->          During the usage of Xmonad
+   * Sterm ( Manjaro) ->  Comes preinstalled with ManjaroBSPWM
+   * St ( RightNow )  ->  Coz I like it 
 
 ****
