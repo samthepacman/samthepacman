@@ -81,11 +81,11 @@ If you want a preview of all my setups
 
 - My Linux Specs
 
-- Os : Gentoo
-- Music Player : MPD , Ncmpcpp
-- FileManager :  Dmenufm
-- Window Manager : (Used Before - i3-gaps,qtile,spectrwm,bspwm,hlwm,sara,openbox,fvwm,xmonad) (rightnow - dwm) (planning to test - exwm)
-- Fav Lang : C , Haskell , HTML , Python
-- Terminal Emulator : Gnome term -> Konsole -> Termite -> Urxvt -> UrxvtCD -> Alacritty -> Kitty -> Termonad -> Sterm ( Manjaro) -> St ( RightNow ) 
+1. Os : Gentoo
+2. Music Player : MPD , Ncmpcpp
+3. FileManager :  Dmenufm
+4. Window Manager : (Used Before - i3-gaps,qtile,spectrwm,bspwm,hlwm,sara,openbox,fvwm,xmonad) (rightnow - dwm) (planning to test - exwm)
+5. Fav Lang : C , Haskell , HTML , Python
+6. Terminal Emulator : Gnome term -> Konsole -> Termite -> Urxvt -> UrxvtCD -> Alacritty -> Kitty -> Termonad -> Sterm ( Manjaro) -> St ( RightNow ) 
 
 ****
