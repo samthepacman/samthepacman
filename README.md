@@ -14,21 +14,21 @@
 ### Distro Packages
 |Repo|Setup Reason|
 |:---:|:---:|
-|ArtixRice Repo                                      |:--  Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)|                                            
-|dotfiles Repo                                       |2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)|
+|ArtixRice Repo                                      | <p align=left>Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)|                                            
+|dotfiles Repo                                       | <p align=left>2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)|
 |Dmonad V-2.0 Repo                                         |Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)|                                             
-|Mini Repo                                           |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
-|Xmonad-tutorial Website                             |Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
-|Enigma-V-2.0                                        | My xmonad [Rice](https://github.com/Sam1431/Enigma-V-2.0)|
-|wallpapers                                          | The Wallpapers I use in Linux Setup|
-|startpages                                          | Cool Start Pages I found and customised [startpages](https://github.com/Sam1431/startpages)|
-|GentooBSPWM                                         | My Calculate Linux BSPWM Rice|
-|TheBat                                              | Gentoo I3 setup inspired from the latest batman trailer|
-|Dwm-flexipatch                                      | forked                                                 |
-|dmenufm                                             | forked                                                 |
-|dotfiles-1                                          | forked                                                 |
-|oni                                                 | forked                                                 |
-|web-greeter                                         | forked                                                 |
+|Mini Repo                                           | <p align=left>Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
+|Xmonad-tutorial Website                             | <p align=left>Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
+|Enigma-V-2.0                                        | <p align=left>My xmonad [Rice](https://github.com/Sam1431/Enigma-V-2.0)|
+|wallpapers                                          | <p align=left>The Wallpapers I use in Linux Setup|
+|startpages                                          | <p align=left>Cool Start Pages I found and customised [startpages](https://github.com/Sam1431/startpages)|
+|GentooBSPWM                                         | <p align=left>My Calculate Linux BSPWM Rice|
+|TheBat                                              | <p align=left>Gentoo I3 setup inspired from the latest batman trailer|
+|Dwm-flexipatch                                      | <p align=left>forked                                                 |
+|dmenufm                                             | <p align=left>forked                                                 |
+|dotfiles-1                                          | <p align=left>forked                                                 |
+|oni                                                 | <p align=left>forked                                                 |
+|web-greeter                                         | <p align=left>forked                                                 |
 |xob                                                 | <p align=left>forked                                                 |
 
 
