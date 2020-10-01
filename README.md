@@ -87,9 +87,3 @@ If you want a preview of all my setups
 - Terminal Emulator : Gnome term -> Konsole -> Termite -> Urxvt -> UrxvtCD -> Alacritty -> Kitty -> Termonad -> Sterm ( Manjaro) -> St ( RightNow ) 
 
 ****
- 
- ***The ethics I follow***
-
-- Do one thing and do it right  
-- Always customise a something to your needs
-- Never expect friendliness if you need efficiency
