@@ -88,7 +88,7 @@ If you want a preview of all my setups
    * Ncmpcpp
    * Mocp
    
-3. FileManager :  Dmenufm
+3. FileManager :  Ranger
 
 4. Window Manager : 
    * i3-gaps ⬇️
