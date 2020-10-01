@@ -16,7 +16,7 @@
 |:---:|:---:|
 |ArtixRice Repo                                      | <p align=left>Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)|                                            
 |dotfiles Repo                                       | <p align=left>2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)|
-|Dmonad V-2.0 Repo                                         |Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)|                                             
+|Dmonad V-2.0 Repo                                   | <p align=left>Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)|                                             
 |Mini Repo                                           | <p align=left>Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
 |Xmonad-tutorial Website                             | <p align=left>Xmonad-tutorial Website [A really messy website explaining how to setup xmonad](https://sam1431.github.io/xmonad-tutorial/)|
 |Enigma-V-2.0                                        | <p align=left>My xmonad [Rice](https://github.com/Sam1431/Enigma-V-2.0)|
