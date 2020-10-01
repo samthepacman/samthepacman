@@ -29,7 +29,7 @@
 |dotfiles-1                                          | forked                                                 |
 |oni                                                 | forked                                                 |
 |web-greeter                                         | forked                                                 |
-|xob                                                 | forked                                                 |
+|xob                                                 | <p style="text-align:left;">forked</p>       |
 
 
 ****
