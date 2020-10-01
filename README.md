@@ -30,15 +30,7 @@
 |oni                                                 | <p align=left>forked                                                 |
 |web-greeter                                         | <p align=left>forked                                                 |
 |xob                                                 | <p align=left>forked                                                 |
-
-
-****
-#### Dependencies
-|        Repos           |           Only tested on Arch , Arco , Artix-Partially (only the BSPWM one works             |
-|------------------------|----------------------------------------------------------------------------------------------|
-| **The Rest**           | Xmonad , Xmonad-log , Xmonad-contrib , Xmonad-util , Polybar , Dmenu2                        |
-| **ArtixRice**          | BSPWM , SXHKD , Polybar , Rofi , Dmenu                                                       |
-****
+|GentooQTILE                                         | <p align=left>Coming Soon                                            |
 
 #### Location
 ```sh
@@ -58,25 +50,26 @@ If you want a preview of all my setups
 
 
 ***About Myself*** 
-- 🏫 I'm a highschool student , 🖥️ amateur coder
+- 🏫 I'm a highschool student 
+- 🖥️ amateur coder
 - 💻 Mostly on my Laptop
 
 ****
 
-- My Linux journey 
----> Kali 
-| ParrotSec 
-| SteamOS 
-| Xebian (Debian Sid) 
-| Sabayon 
-| VoidLinux 
-| Mainline Arch 
-| Calculate
-| Clover 
-| Pentoo
-| Gentoo [with scripts]
-| Pure Gentoo
-| ? ( Will be updated in the future ) 
+- My Linux journey ⬇️
+- Kali ⬇️
+- ParrotSec ⬇️ 
+- SteamOS ⬇️
+- Xebian (Debian Sid) ⬇️
+- Sabayon ⬇️
+- VoidLinux ⬇️
+- Mainline Arch ⬇️
+- Calculate ⬇️
+- Clover ⬇️
+- Pentoo ⬇️
+- Gentoo [with scripts] ⬇️
+- Pure Gentoo ⬇️
+- ? ( Will be updated in the future ) 
 
 ****
 
