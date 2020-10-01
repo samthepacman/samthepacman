@@ -14,7 +14,7 @@
 ### Distro Packages
 |Repo|Setup Reason|
 |:---:|:---:|
-|ArtixRice Repo                                      | :-- . Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)|                                            
+|ArtixRice Repo                                      |:--  Files Used to set-up my ArtixRice  [BSPWM](https://github.com/Sam1431/ArtixRice)|                                            
 |dotfiles Repo                                       |2nd Rice [Xmonad](https://github.com/Sam1431/dotfiles)|
 |Dmonad V-2.0 Repo                                         |Dmenu-Xmonad V-1.0 setup single color [Blue](https://github.com/Sam1431/DMonad)|                                             
 |Mini Repo                                           |Dmenu-XMonad V-2.0 setup multi color [Rainbow](https://github.com/Sam1431/Mini)|                                             
