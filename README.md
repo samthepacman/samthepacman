@@ -82,10 +82,40 @@ If you want a preview of all my setups
 - My Linux Specs
 
 1. Os : Gentoo
-2. Music Player : MPD , Ncmpcpp
+
+2. Music Player : 
+   * MPD  
+   * Ncmpcpp
+   * Mocp
+   
 3. FileManager :  Dmenufm
-4. Window Manager : (Used Before - i3-gaps,qtile,spectrwm,bspwm,hlwm,sara,openbox,fvwm,xmonad) (rightnow - dwm) (planning to test - exwm)
-5. Fav Lang : C , Haskell , HTML , Python
-6. Terminal Emulator : Gnome term -> Konsole -> Termite -> Urxvt -> UrxvtCD -> Alacritty -> Kitty -> Termonad -> Sterm ( Manjaro) -> St ( RightNow ) 
+
+4. Window Manager : 
+   * i3-gaps ⬇️
+   * Bspwm   ⬇️
+   * openbox ⬇️
+   * fvwm    ⬇️   
+   * Xmonad  ⬇️
+   * sara    ⬇️
+   * exwm    ⬇️ 
+   * Qtile   ⬇️
+   
+5. Fav Lang : 
+   * C  
+   * Haskell 
+   * HTML 
+   * Python
+
+6. Terminal Emulator : 
+   * Gnome term -> 
+   * Konsole -> 
+   * Termite -> 
+   * Urxvt -> 
+   * UrxvtCD -> 
+   * Alacritty -> 
+   * Kitty -> 
+   * Termonad -> 
+   * Sterm ( Manjaro) -> 
+   * St ( RightNow ) 
 
 ****
