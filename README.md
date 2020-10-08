@@ -30,7 +30,8 @@
 |<p align=left>oni                                                 | <p align=left>forked                                                 |
 |<p align=left>web-greeter                                         | <p align=left>forked                                                 |
 |<p align=left>xob                                                 | <p align=left>forked                                                 |
-|<p align=left>GentooQTILE                                         | <p align=left>Coming Soon                                            |
+|<p align=left>GentooQTILE                                         | <p align=left>Updated                                                |
+|<p align=left>GentooX [xmonad]                                    | <p align=left>Coming soon                                            |
 
 #### Location
 ```sh
