@@ -30,8 +30,12 @@
 |<p align=left>oni                                                 | <p align=left>forked                                                 |
 |<p align=left>web-greeter                                         | <p align=left>forked                                                 |
 |<p align=left>xob                                                 | <p align=left>forked                                                 |
-|<p align=left>GentooQTILE                                         | <p align=left>Updated                                                |
-|<p align=left>GentooX [xmonad]                                    | <p align=left>Coming soon                                            |
+
+|<p align=left>AnonX                                               | <p align=left>My Sway Rice                                           |
+|<p align=left>Kali-Awesome                                        | <p align=left>My awesomewm setup on kali linux                       |
+|<p align=left>WM                                                  | <p align=left>My Recreation of awesomewm default wallpaper           |
+|<p align=left>Hitech                                              | <p align=left>My customised set of wallpaper                         |
+|<p align=left>DraculaWM                                           | <p align=left>Dracula setup for popular WMs                          |
 
 #### Location
 ```sh
