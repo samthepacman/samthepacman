@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sam1431&hide=ruby,perl&hide_border=true" />  -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sam1431&hide=ruby,perl&hide_border=false" />  -->
 </p>
 
 #### Location
