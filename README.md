@@ -1,6 +1,6 @@
 # My Repo Info
 
-<p align="center">
+<p align="right">
   <img alt="Sam's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sam1431&show_icons=true&include_all_commits=true&hide_border=true" 
 />
 </p>
