@@ -19,7 +19,7 @@ Welcome To My Github Repo [ The place where all my linux setups,backups,tutorial
 - 🏫 I'm a highschool student 
 - 🐧 I'm a Nix OS user
 - 🖥️ amateur coder
-- 💻 Mostly on my Laptop
+- 💻 Living life declaratively
 
 ****
 
