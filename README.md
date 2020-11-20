@@ -3,6 +3,9 @@
 <p align="center">
   <img alt="Sam's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sam1431&show_icons=true&include_all_commits=true&hide_border=true" 
 />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sam1431&hide=ruby,perl&hide_border=true" />  -->
 </p>
 
