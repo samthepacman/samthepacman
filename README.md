@@ -17,7 +17,7 @@ Welcome To My Github Repo [ The place where all my linux setups,backups,tutorial
 ***About Myself*** 
 
 - 🏫 I'm a highschool student 
-- 🐧 I'm a Nix OS user ( Checking out Slackware - might switch )
+- 🐧 I'm a Nix OS user  ( also SilverBlue )
 - 🖥️ amateur coder
 - 💻 Living life declaratively
 
