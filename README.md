@@ -9,8 +9,6 @@
 </table>
 </center>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sam1431)](https://github.com/anuraghazra/github-readme-stats)
-
 ```
 Welcome To My Github Repo [ The place where all my linux setups,backups,tutorials resides ]
 ```
