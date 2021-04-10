@@ -17,9 +17,9 @@ Welcome To My Github Repo [ The place where all my linux setups,backups,tutorial
 ***About Myself*** 
 
 - 🏫 I'm a highschool student 
-- 🐧 I'm a Nix OS user  ( also SilverBlue )
+- 🐧 I'm a Gentoo user  ( also SilverBlue )
 - 🖥️ amateur coder
-- 💻 Living life declaratively
+- 💻 Compiling my life, every single bit of it
 
 ****
 
