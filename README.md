@@ -8,7 +8,7 @@
 </center>
 
 ```
-Welcome To My Github Repo [ The place where all my linux setups,backups,tutorials resides ]
+hoho so, You're approaching me? Instead of running away you're coming right to me?  
 ```
 
 
