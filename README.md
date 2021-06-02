@@ -17,7 +17,8 @@ Oh You're approaching me? Instead of running away you're coming right to me?
 - 🏫 High School Student 
 - 🐧 I'm a Stand User [ NixOS go muda muda muda ]
 - 🖥️ LOL
-- 💻 A legend once said the Linux philosophy is "laugh in the face of danger". Oops. Wrong one. "Do it yourself". That's it. 
+- 💻 the Linux philosophy is "laugh in the face of danger". Oops. Wrong one. "Do it yourself". That's it. 
+                                                                               - Linus Torvalds
 
 ****
 
