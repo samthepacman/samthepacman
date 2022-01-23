@@ -10,8 +10,6 @@
 <hr>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sam1431&bg_color=FFB86C&color=1d2026&line=484F5C&point=1d2026" alt="activiity" width=900 /></p></a>
 <hr>
-<h1>
-I'm a amateur coder and And I'm currently learning
 </h1>
 <div align="left">
       <a href="https://github.com/Sam1431"
