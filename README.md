@@ -19,4 +19,9 @@ I'm a amateur coder and And I'm currently learning
             src="https://github.com/Sam1431/Sam1431/blob/master/profilel.png"
             alt="my profile intro"
     /></a>
+      <a href="https://github.com/Sam1431"
+        ><img
+            src="https://github.com/Sam1431/Sam1431/blob/master/langs.png"
+            alt="languages"
+    /></a>
 </div>
