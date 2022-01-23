@@ -1,3 +1,9 @@
+<style>
+*{
+background-color: #1d2026;
+      }
+</style>
+
 <div align="left">
       <a href="https://github.com/Sam1431"
         ><img
