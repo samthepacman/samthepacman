@@ -6,6 +6,8 @@
     /></a>
 </div>
 
+<hr>
+
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sam1431&bg_color=090c10&color=4d5566&line=090c10&point=4d5566" alt="activiity" width=900 /></p></a>
 
 <hr>
