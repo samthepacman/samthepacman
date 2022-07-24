@@ -31,8 +31,8 @@
 <hr>
 
 
-![](https://github-readme-stats.vercel.app/api?username=sam1431&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sam1431&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1431&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sam1431&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="sam1431" height="201px"/>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&theme=dark&hide_border=true" alt="sam1431" height="201px"/>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam1431&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="sam1431" height="201px"/>
 <p><img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="sam1431" height="201px"/>
 
