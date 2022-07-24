@@ -33,4 +33,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam1431&show_icons=true&locale=en&layout=compact&bg_color=090c10&text_color=79c0ff&icon_color=79c0ff&line=79c0ff&title_color=4d5566" alt="sam1431" height="201px"/>
 <hr>
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p align="right"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) </p>
