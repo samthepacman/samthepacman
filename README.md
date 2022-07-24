@@ -35,5 +35,5 @@
 <hr>
 
 <div align="right"> 
-      ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) 
+      ![quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) 
 </div>
