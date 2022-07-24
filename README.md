@@ -30,12 +30,19 @@
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 <hr>
 
+![](https://github-readme-stats.vercel.app/api?username=sam1431&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sam1431&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1431&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sam1431&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="sam1431"/>
-<p><img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="sam1431"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sam1431&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&theme=dark&hide_border=true" alt="sam1431"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam1431&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="sam1431"/>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=sam1431&icon=0&color=0)](https://visitcount.itsvg.in)
 
