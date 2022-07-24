@@ -5,6 +5,8 @@
             alt="my profile intro"
     /></a>
 </div>
+<hr>
+
 <p align="center">
 <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanman_xyz" height="30" width="40" /></a>
 </p>
