@@ -19,7 +19,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
-![snake gif](https://github.com/sam1431/sam1431/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/sam1431/sam1431/blob/output/bg_color=282c34&github-contribution-grid-snake.gif)
 
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam1431&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=090c10&line=79c0ff&text_color=4d5566&icon_color=4d5566&title_color=1d2026" alt="sam1431" height="201px"/>
