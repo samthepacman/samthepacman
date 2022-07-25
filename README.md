@@ -13,9 +13,10 @@
 </p>
 
 <hr>
-<div align="center">
- 
  <h3 align="center">Languages and Tools</h3>
+ 
+<div align="center">
+
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
