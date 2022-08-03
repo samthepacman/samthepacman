@@ -32,7 +32,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://instagram.com/chanman_xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanman_xyz" height="30" width="40" /></a>
+      <a href="https://instagram.com/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="chanman_xyz" height="30" width="40" /></a>
+<a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="chanman_xyz" height="30" width="40" /></a>
 </p>
 
 <hr>
