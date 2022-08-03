@@ -55,4 +55,8 @@
     /></a>
 </div>
 <hr>
-# The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
+<h1>
+The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
+</h1>
+<h3>
+      <p align=right>- Linus Torvalds</p>
