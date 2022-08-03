@@ -67,5 +67,3 @@
             alt="languages"
     /></a>
 </div>
-### ✍️ Random Dev Quote
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width="900px" height="300px" alt="sam1431"/>
