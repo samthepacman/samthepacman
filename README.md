@@ -40,7 +40,8 @@
 **🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
 
-![](https://github-readme-stats.vercel.app/api?username=sam1431&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
+<div align="left">![](https://github-readme-stats.vercel.app/api?username=sam1431&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/></div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sam1431&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sam1431&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
