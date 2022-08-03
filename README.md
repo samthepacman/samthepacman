@@ -68,4 +68,4 @@
     /></a>
 </div>
 ### ✍️ Random Dev Quote
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width="800px" height="201px" alt="sam1431"/>
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" width="900px" height="300px" alt="sam1431"/>
