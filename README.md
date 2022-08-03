@@ -28,18 +28,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 </div>
 
-<div align="left">
-      <a href="https://github.com/Sam1431"
-        ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/profilel.png"
-            alt="my profile intro"
-    /></a>
-      <a href="https://github.com/Sam1431"
-        ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/langs.png"
-            alt="languages"
-    /></a>
-</div>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -66,5 +55,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam1431&show_icons=true&locale=en&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026&hide_border=true" alt="sam1431" height="201px"/>
 <hr>
 
+<div align="left">
+      <a href="https://github.com/Sam1431"
+        ><img
+            src="https://github.com/Sam1431/Sam1431/blob/master/profilel.png"
+            alt="my profile intro"
+    /></a>
+      <a href="https://github.com/Sam1431"
+        ><img
+            src="https://github.com/Sam1431/Sam1431/blob/master/langs.png"
+            alt="languages"
+    /></a>
+</div>
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&)
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal width=" alt="sam1431" height="201px"/>![](https://quotes-github-readme.vercel.app/api?type=horizontal width="900"&)
