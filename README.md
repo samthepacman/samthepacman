@@ -65,7 +65,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam1431&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026&hide_border=true" alt="sam1431" height="201px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam1431&show_icons=true&locale=en&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026&hide_border=true" alt="sam1431" height="201px"/>
 <hr>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sam1431&bg_color=FFB86C&color=1d2026&line=484F5C&point=1d2026" alt="activiity" width=900 /></p></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&)
