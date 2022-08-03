@@ -54,3 +54,5 @@
             alt="languages"
     /></a>
 </div>
+<hr>
+# The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
