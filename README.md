@@ -36,18 +36,12 @@
 
 
 # Bout Myself
-<p align="left">
-🔭 I’m currently working on
-      
-👯 I’m looking to collaborate on
-      
-🤝 I’m looking for help with
-      
-🌱 I’m currently learning
-      
-💬 Ask me about
-      
-⚡ Fun fact
-</p>
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>    
+🌱 I’m currently learning<br>
+💬 Ask me about<br>
+⚡ Fun fact<br>
+
 <p align="right"><a href="https://github-profile-trophy.vercel.app/?username=sam1431&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="600"/> </a></p>
 <p align="right"> <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=d4c" width="200" alt="Chandra's Dev Card"/></a></p>
