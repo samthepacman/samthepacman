@@ -62,5 +62,5 @@ The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Y
       <p align=right>- Linus Torvalds</p>
 <hr>
 </h3>
-<div align="center><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026"
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026"
  alt="sam1431" /></div>
