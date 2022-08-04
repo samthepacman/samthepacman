@@ -50,7 +50,6 @@ The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Y
 <h3>
       <p align=right>- Linus Torvalds</p>
 
-<hr>
 </h3>
       <p align="center">
       Some Cool Tools/Projects
