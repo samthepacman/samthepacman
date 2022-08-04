@@ -71,3 +71,5 @@ The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Y
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/> </a> 
       <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="70" height="70"/> </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sam1431&label=Profile%20views&color=0e75b6&style=flat" alt="sam1431" /> </p>
