@@ -1,7 +1,7 @@
 <div align="left">
       <a href="https://github.com/Sam1431"
         ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/profile.jpg"
+            src="https://github.com/Sam1431/Sam1431/blob/master/neon-prof.jpg"
             alt="my profile intro"
     /></a>
 </div>
@@ -64,6 +64,7 @@ The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Y
 </h3>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&theme=gotham&hide_border=true" alt="sam1431" /></div>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="sam1431" /> </p>
+<hr>
 <p align="center">
       Some Cool Tools/Projects
 </p>
