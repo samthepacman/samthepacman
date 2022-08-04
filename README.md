@@ -63,5 +63,5 @@ The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Y
 </h3>
 <hr>
 <p><img align="center" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&show_icons=true&locale=en&layout=compact&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026"
+src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026"
  alt="sam1431" /></p>
