@@ -5,7 +5,7 @@
             alt="my profile intro"
     /></a>
 </div>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sam1431&bg_color=0d1117&color=1d2026&line=484F5C&point=1d2026" alt="activiity" width=900 /></p></a>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sam1431&hide_border=true&bg_color=0d1117&color=1d2026&line=484F5C&point=1d2026" alt="activiity" width=900 /></p></a>
 <hr>
 </h1>
 
@@ -34,7 +34,7 @@
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
 
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam1431&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=1d2026&icon_color=1d2026&title_color=1d2026" alt="sam1431" height="201px"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam1431&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=0d1117&text_color=1d2026&icon_color=1d2026&title_color=1d2026" alt="sam1431" height="201px"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam1431&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117&text_color=1d2026&icon_color=1d2026&title_color=1d2026" alt="sam1431" height="201px"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam1431&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=0d1117&hide_border=true&text_color=1d2026&icon_color=1d2026&title_color=1d2026" alt="sam1431" height="201px"/>
 <hr>
 <h3 align="center">Connect with me</h3>
   <p align="center">
