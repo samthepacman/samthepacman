@@ -35,12 +35,13 @@
 
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam1431&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117&text_color=644c7f&icon_color=6162f1&title_color=6162f1" alt="sam1431" height="201px"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam1431&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=0d1117&hide_border=true&text_color=644c7f&icon_color=6162f1&title_color=6162f1" alt="sam1431" height="201px"/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam1431&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></a> </p>
 <hr>
 <h3 align="center">Connect with me</h3>
   <p align="center">
     <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&ogoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
     <a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam1431&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></a> </p>
+
   </p>
 <hr>
 <h1>
