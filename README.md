@@ -64,3 +64,10 @@ The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Y
 </h3>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026"
  alt="sam1431" /></div>
+<p align="center">
+      Some Cool Tools/Projects
+</p>
+<p align="left"> 
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+      <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
