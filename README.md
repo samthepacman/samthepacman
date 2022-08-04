@@ -40,6 +40,7 @@
   <p align="center">
     <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&ogoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
     <a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam1431&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></a> </p>
   </p>
 <hr>
 <h1>
@@ -57,5 +58,3 @@ The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Y
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/> </a> 
       <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="70" height="70"/> </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> </a> </p>
-<h3><hr></h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam1431&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></a> </p>
