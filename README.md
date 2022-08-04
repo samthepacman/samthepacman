@@ -42,28 +42,11 @@
     <a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
   </p>
 <hr>
-<div align="left">
-      <a href="https://github.com/Sam1431"
-        ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/profilel.png"
-            alt="my profile intro"
-    /></a>
-      <a href="https://github.com/Sam1431"
-        ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/langs.png"
-            alt="languages"
-    /></a>
-</div>
-<hr>
 <h1>
 The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
 </h1>
 <h3>
       <p align=right>- Linus Torvalds</p>
-<hr>
-</h3>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam1431&theme=gotham&hide_border=true" alt="sam1431" /></div>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="sam1431" /> </p>
 <hr>
 <p align="center">
       Some Cool Tools/Projects
