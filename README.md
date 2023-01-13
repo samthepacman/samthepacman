@@ -33,9 +33,7 @@
 **🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
 
-<hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam1431&show_icons=true&locale=en&layout=compact&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026" alt="sam1431" height="201px"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam1431&langs_count=10&exclude_repo=friday-night-faxxin&show_icons=true&layout=compact&bg_color=FFB86C&text_color=1d2026&icon_color=1d2026&title_color=1d2026" alt="sam1431" height="201px"/>
-<hr>
+
 <h3 align="center">Connect with me</h3>
   <p align="center">
     <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&ogoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
