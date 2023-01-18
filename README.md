@@ -42,7 +42,7 @@
 <div align="left">
       <a href="https://github.com/Sam1431"
         ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/wik2.png"
+            src="https://github.com/Sam1431/Sam1431/blob/master/wik3.png"
             alt="my profile intro"
     /></a>
       <a href="https://github.com/Sam1431"
