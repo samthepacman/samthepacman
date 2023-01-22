@@ -5,12 +5,10 @@
             alt="my profile intro"
     /></a>
 </div>
-<hr>
-<div>
+
 **🔭 I’m currently working on a** `text based game` **and a** `website`<br>
 **🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
-</div>
 
 <h3 align="center">Connect with me</h3>
   <p align="center">
