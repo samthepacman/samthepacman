@@ -24,6 +24,7 @@
             alt="my profile intro"
     /></a>
 </div>
+<br>
 
 <div align="center">
       
