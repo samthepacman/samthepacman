@@ -5,7 +5,7 @@
             alt="my profile intro"
     /></a>
 </div>
-
+<hr>
 **🔭 I’m currently working on a** `text based game` **and a** `website`<br>
 **🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
