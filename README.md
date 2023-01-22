@@ -6,14 +6,6 @@
     /></a>
 </div>
 <hr>
-</h1>
-
-<div align="center">
-      
-
-</div>
-<hr> 
-
 **🔭 I’m currently working on a** `text based game` **and a** `website`<br>
 **🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
@@ -33,6 +25,7 @@
     /></a>
 </div>
 <hr>
+<div align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -48,6 +41,8 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+</div>
+</hr>
 
 <h1>
 The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
