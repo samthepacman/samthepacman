@@ -45,12 +45,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 </div>
 
-<h1>
 The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
-</h1>
-<h3>
-      <p align=right>- Linus Torvalds</p>
+<p align=right>- Linus Torvalds</p>
 <hr>
+
 <p align="center">
       Some Cool Tools/Projects
 </p>
