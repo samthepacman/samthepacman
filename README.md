@@ -8,8 +8,9 @@
 <hr>
 
 <p align="right">
-<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=rm4" width="100" alt="Chandra's Dev Card"/></a>
+<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=rm4" width="150" alt="Chandra's Dev Card"/></a>
 </p>
+
 **🔭 I’m currently working on a** `text based game` **and a** `website`<br>
 **🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
