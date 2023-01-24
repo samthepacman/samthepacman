@@ -10,7 +10,9 @@
 **🔭 I’m currently working on a** `text based game` **and a** `website`<br>
 **🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
 **⚡ Fun fact** `Silk Moths are the cutest insects`<br>
-
+<p align="right">
+<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=rm4" width="400" alt="Chandra's Dev Card"/></a>
+</p>
 <h3 align="center">Connect with me</h3>
   <p align="center">
     <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&ogoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
