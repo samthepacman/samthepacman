@@ -7,19 +7,19 @@
 </div>
 <hr>
 <h1 align="left"><strong> Hi 👋 I'm Chandra</h2>
- ➡ 👦 I'm 16 <br>
- ➡ 🎨 I draw when bored <br>
- ➡ 🎲 Currently Learning Game Development with Godot Engine <br>
- ➡ I ❤️ System76 and Pop!_OS
+ 🟣 👦 I'm 16 <br>
+ 🔵 🎨 I draw when bored <br>
+ ⚫ 🎲 Currently Learning Game Development with Godot Engine <br>
+ ⚪ I ❤️ System76 and Pop!_OS
 </strong>
 <br>
 
 <h2 align="left"><strong>My Goals <br></h2>
       
 <ol type="3">
-  <li>➡ 🎮 Create a game before 2k25</li>
-  <li>➡ 🏢 Start a small game studio with my friends</li>
-  <li>➡ 👑 🏴‍☠️ Become the world's greatest game developer</li>
+  <li> 🟣 🎮 Create a game before 2k25</li>
+  <li> 🔵 🏢 Start a small game studio with my friends</li>
+  <li> ⚫ 👑 🏴‍☠️ Become the world's greatest game developer</li>
 </ol>
 </strong>
 
