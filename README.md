@@ -12,9 +12,11 @@
 </p>
 
 <p align="left">
+<a 
 <strong>🔭 I’m currently working on a</strong> <code>2d pixel topdown game</code> <strong>and a</strong> <code>website</code><br>
 <strong>**🌱 I’m currently learning</strong> <code>nodejs</code> , <code>js</code> , <code>tailwind</code><br>
 <strong>**⚡ Fun fact</strong> <code>Silk Moths are the cutest insects</code><br>
+>
 </p>
 
 <h3 align="center">Connect with me</h3>
