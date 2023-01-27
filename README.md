@@ -12,9 +12,9 @@
 </p>
 
 
-<strong>🔭 I’m currently working on a</strong> `text based game` **and a** `website`<br>
-**🌱 I’m currently learning** `nodejs` , `js` , `tailwind`<br>
-**⚡ Fun fact** `Silk Moths are the cutest insects`<br>
+<strong>🔭 I’m currently working on a</strong> <code>2d pixel topdown game</code> <strong>and a</strong> <code>website</code><br>
+<strong>**🌱 I’m currently learning</strong> <code>nodejs</code> , <code>js</code> , <code>tailwind</code><br>
+<strong>**⚡ Fun fact</strong> <code>Silk Moths are the cutest insects</code><br>
 
 
 <h3 align="center">Connect with me</h3>
