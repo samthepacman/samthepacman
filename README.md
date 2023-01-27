@@ -13,7 +13,8 @@
 
 ****
 
-<h2 align="left"><strong><My Goals </strong><br>
+<h2 align="left"><strong><My Goals </strong><br></h2>
+      
 <ol type="1">
   <li>Create a game before 2k25</li>
   <li>Start a small game studio with my friends</li>
