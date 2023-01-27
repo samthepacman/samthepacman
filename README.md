@@ -6,6 +6,7 @@
     /></a>
 </div>
 <hr>
+<h2 align="left"><strong> Hi 👋 I'm Chandra</strong></h2>
 
 <h3 align="center"><strong>~ ~ Contacts ~ ~</strong></h3>
   <p align="center">
