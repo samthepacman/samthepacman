@@ -7,6 +7,13 @@
 </div>
 <hr>
 <h2 align="left"><strong> Hi 👋 I'm Chandra</strong></h2>
+- I'm 16
+- I'm draw when bored
+- Currently Learning Game Development with Godot Engine
+- My Goals
+  1. Create a game before 2k25
+  2. Start a small game studio with my friends
+  3. Become the world's greatest game developer
 
 <h3 align="center"><strong>~ ~ Contacts ~ ~</strong></h3>
   <p align="center">
