@@ -7,11 +7,11 @@
 </div>
 <hr>
 
-<p align="right">
+<p align="center">
 <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=rm4" width="150" alt="Chandra's Dev Card"/></a>
 </p>
 
-<p align="left">
+<p align="center">
 <strong>🔭 I’m currently working on a</strong> <code>2d pixel topdown game</code> <strong>and a</strong> <code>website</code><br>
 <strong>**🌱 I’m currently learning</strong> <code>nodejs</code> , <code>js</code> , <code>tailwind</code><br>
 <strong>**⚡ Fun fact</strong> <code>Silk Moths are the cutest insects</code><br>
