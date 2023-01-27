@@ -7,15 +7,29 @@
 </div>
 <hr>
 
-<p align="right">
-<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=rm4" width="200" alt="Chandra's Dev Card"/></a>
-</p>
+# chandra
+### Student, Linux enthusiast, Amateur Coder.
 
-<p align="left">
-<strong>🔭 I’m currently working on a</strong> <code>2d pixel topdown game</code> <strong>and a</strong> <code>website</code>
-<strong>**🌱 I’m currently learning</strong> <code>nodejs</code> , <code>js</code> , <code>tailwind</code>
-<strong>**⚡ Fun fact</strong> <code>Silk Moths are the cutest insects</code>
-</p>
+⤷ Hi there, Name's chandra. I hail from the peninsula where the three seas meet. I draw in my free time and vibe to eurobeats.
+
+
+<a aligh="left" href="https://https://gitlab.com/itschanman" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:samthepacman@protonmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>
+
+
+⚐ Based in A universe Far Far Away
+
+ϟ Currently Learning Game Development with Godot
+
+ϟ Recently Finished Reading Viral Hit(manhwa)
+
+
+## Skills
+
+<a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/rust.svg" alt="Rust" width="25" height="25" /></a>
+<a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank"
+
+***
 
 <h3 align="center">Connect with me</h3>
   <p align="center">
