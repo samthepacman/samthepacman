@@ -1,7 +1,7 @@
 <div align="left">
-      <a href="https://github.com/Sam1431"
+      <a href="https://github.com/samthepacman"
         ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/neon-prof.png"
+            src="https://github.com/samthepacman/samthepacman/blob/master/neon-prof.png"
             alt="my profile intro"
     /></a>
 </div>
@@ -30,9 +30,9 @@
   </p>
 <hr>
 <div align="left">
-      <a href="https://github.com/Sam1431"
+      <a href="https://github.com/samthepacman"
         ><img
-            src="https://github.com/Sam1431/Sam1431/blob/master/wik3.png"
+            src="https://github.com/samthepacman/samthepacman/blob/master/wik3.png"
             alt="my profile intro"
     /></a>
 </div>
@@ -63,7 +63,7 @@
 >> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
 >> <p align=right>- Linus Torvalds</p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam1431&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samthepacman&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></a> </p>
 
 <hr>
 <p align="center"> Some Cool Tools/Projects </p>
