@@ -5,7 +5,7 @@
             alt="my profile intro"
     /></a>
 </div>
-<h1 align="left"><strong> - </h1>
+<h1 align="left"><strong> </h1>
 <h1 align="left"><strong> Hi 👋 I'm Chandra</h1>
   👦 I'm 16 <br>
   🎨 I draw when bored <br>
