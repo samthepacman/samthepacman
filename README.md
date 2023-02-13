@@ -11,7 +11,6 @@
   🎨 I draw when bored <br>
   🎲 Currently Learning Game Development with Godot Engine <br>
   I ❤️ System76 <br>
-  Using NixOS
 </strong>
 <br>
 
