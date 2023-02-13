@@ -10,7 +10,8 @@
   👦 I'm 16 <br>
   🎨 I draw when bored <br>
   🎲 Currently Learning Game Development with Godot Engine <br>
-  I ❤️ System76 and Pop!_OS
+  I ❤️ System76
+  Using NixOS
 </strong>
 <br>
 
