@@ -14,7 +14,7 @@
 </strong>
 <br>
 
-<h2 align="left"><strong>My Goals <br></h2>
+<h2 align="left"><strong>My Fun Goals <br></h2>
       
 <ol type="3">
   <li>  🎮 Create a game before 2k25</li>
