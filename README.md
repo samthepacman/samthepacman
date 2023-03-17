@@ -12,7 +12,7 @@
   I ❤️ System76 <br>
 </strong>
 <br>
-
+<hr>
 <h2 align="left"><strong>My Fun Goals <br></h2>
       
 <ol type="3">
