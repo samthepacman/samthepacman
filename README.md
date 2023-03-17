@@ -19,10 +19,7 @@
    ### Some of my cool Repositories 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/IdempotentDots)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Divergence)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Desktop-Setup)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/TheLibrary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/IdempotentDots) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Divergence) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Desktop-Setup) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/TheLibrary)
 
 <hr>
 <h2 align="left"><strong>My Fun Goals <br></h2>
