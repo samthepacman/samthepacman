@@ -5,12 +5,24 @@
             alt="my profile intro"
     /></a>
 </div>
+
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 <br>
   <strong>👦 I'm 16 <br>
   🎨 I draw when bored <br>
   🎲 Currently Learning Game Development with Godot Engine <br>
   I ❤️ System76 <br>
 </strong>
+
+<hr>
+
+   ### Some of my cool Repositories 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a)](https://github.com/samthepacman/IdempotentDots)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a)](https://github.com/samthepacman/Desktop-Setup)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a)](https://github.com/samthepacman/Divergence)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a)](https://github.com/samthepacman/TheLibrary)
+
 <hr>
 <h2 align="left"><strong>My Fun Goals <br></h2>
       
@@ -28,7 +40,6 @@
     /></a>
 </div>
 </p>
-<hr>
 <div align="center">
 
 ![Godot](https://img.shields.io/badge/godot-3670A0?style=for-the-badge&logo=godot&logoColor=ffdd54)
@@ -49,7 +60,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 </div>
 
-<hr>
 
 >> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
 >> <p align=right>- Linus Torvalds</p>
