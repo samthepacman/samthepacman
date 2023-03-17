@@ -16,20 +16,6 @@
 
 <hr>
 
-   ### Some of my cool Repositories 
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/IdempotentDots) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Divergence) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Desktop-Setup) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/TheLibrary)
-
-<hr>
-<h2 align="left"><strong>My Fun Goals <br></h2>
-      
-<ol type="3">
-  <li>  🎮 Create a game before 2k25</li>
-  <li>  🏢 Start a small game studio with my friends</li>
-  <li>  👑 🏴‍☠️ Become the world's greatest game developer</li>
-</ol>
-</strong>
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
@@ -57,6 +43,21 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 </div>
+
+   ### Some of my cool Repositories 
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/IdempotentDots) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Divergence) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Desktop-Setup) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/TheLibrary)
+
+<hr>
+<h2 align="left"><strong>My Fun Goals <br></h2>
+      
+<ol type="3">
+  <li>  🎮 Create a game before 2k25</li>
+  <li>  🏢 Start a small game studio with my friends</li>
+  <li>  👑 🏴‍☠️ Become the world's greatest game developer</li>
+</ol>
+</strong>
 
 
 >> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
