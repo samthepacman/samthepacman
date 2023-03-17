@@ -11,7 +11,6 @@
   🎲 Currently Learning Game Development with Godot Engine <br>
   I ❤️ System76 <br>
 </strong>
-<br>
 <hr>
 <h2 align="left"><strong>My Fun Goals <br></h2>
       
