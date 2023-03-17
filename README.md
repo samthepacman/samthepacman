@@ -1,7 +1,7 @@
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
-            src="https://github.com/samthepacman/samthepacman/blob/master/with_shadow_white_rounded.png"
+            src="https://github.com/samthepacman/samthepacman/blob/master/neon-prof.jpg"
             alt="my profile intro"
     /></a>
 </div>
