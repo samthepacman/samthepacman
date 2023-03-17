@@ -7,10 +7,10 @@
 </div>
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/>
-  <strong>### 👦 I'm 16 <br>
-  ### 🎨 I draw when bored <br>
-  ### 🎲 Currently Learning Game Development with Godot Engine <br>
-  ### I ❤️ System76 <br>
+  <strong> 👦 I'm 16 <br>
+   🎨 I draw when bored <br>
+   🎲 Currently Learning Game Development with Godot Engine <br>
+   I ❤️ System76 <br>
 </strong>
 
 <hr>
