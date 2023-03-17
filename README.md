@@ -6,7 +6,7 @@
     /></a>
 </div>
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FEB76C&style=for-the-badge&logo=github&label=Follow"/>
 <br>
   <strong>👦 I'm 16 <br>
   🎨 I draw when bored <br>
@@ -18,10 +18,10 @@
 
    ### Some of my cool Repositories 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/IdempotentDots)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/Desktop-Setup)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/Divergence)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=1B222C&title_color=61afef&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/TheLibrary)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=FEB76C&title_color=1b222c&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/IdempotentDots)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=FEB76C&title_color=1b222c&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/Desktop-Setup)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=FEB76C&title_color=1b222c&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/Divergence)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=FEB76C&title_color=1b222c&text_color=abb2bf&icon_color=9a9c9a&border_color=222b38)](https://github.com/samthepacman/TheLibrary)
 
 <hr>
 <h2 align="left"><strong>My Fun Goals <br></h2>
