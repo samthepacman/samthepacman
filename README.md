@@ -33,7 +33,7 @@
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
-            src="https://github.com/samthepacman/samthepacman/blob/master/profilel.jpg"
+            src="https://github.com/samthepacman/samthepacman/blob/master/profilel.png"
             alt="my profile intro"
     /></a>
 </div>
