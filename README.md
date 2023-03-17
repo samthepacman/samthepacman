@@ -1,3 +1,4 @@
+>> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
@@ -57,11 +58,6 @@
   <li>  👑 🏴‍☠️ Become the world's greatest game developer</li>
 </ol>
 </strong>
-
-
->> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it
->> <p align=right>- Linus Torvalds</p>
-
 
 <h3 align="center"><strong>~ ~ Contacts ~ ~</strong></h3>
   <p align="center">
