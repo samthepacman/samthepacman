@@ -1,7 +1,7 @@
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
-            src="https://github.com/samthepacman/samthepacman/blob/master/neon-prof-darker.png"
+            src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg"
             alt="my profile intro"
     /></a>
 </div>
@@ -33,7 +33,7 @@
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
-            src="https://github.com/samthepacman/samthepacman/blob/master/with_shadow_white_rounded_head.png"
+            src="https://github.com/samthepacman/samthepacman/blob/master/profilel.jpg"
             alt="my profile intro"
     /></a>
 </div>
