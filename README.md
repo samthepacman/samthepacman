@@ -1,4 +1,5 @@
-<div align="center"> `The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it` </div>
+<div align="center"> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </div>
+<br>
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
