@@ -16,8 +16,7 @@
 <br>
 <hr>
 
-<a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/cl.jpg" align="left" width="140"/></a>
-<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="210" align="right" alt="Chandra's Dev Card"/></a> 
+<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="210" align="left" alt="Chandra's Dev Card"/></a> 
 
    **# 🎨 I draw when bored** <br>
    **# 🎲 Currently Learning Game Development with Godot Engine** <br>
@@ -33,11 +32,7 @@
       
 <br><hr>
 <div align="left">
-      <a href="https://github.com/samthepacman"
-        ><img
-            src="https://github.com/samthepacman/samthepacman/blob/master/profilel.png"
-            alt="my profile intro"
-    /></a>
+      <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profilel.png"/></a>
 </div>
 </p>
 <div align="left">
