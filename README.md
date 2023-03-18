@@ -4,7 +4,7 @@
       <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg" alt="my profile intro"/></a>
 </div>
 
-<div align="right">
+<div align="center">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/> 
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Godot-3670A0?style=for-the-badge&logo=godot&logoColor=ffdd54"/>
