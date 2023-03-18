@@ -9,9 +9,7 @@
 </div>
 
 <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="280" align="left" alt="Chandra's Dev Card"/></a> 
-<br> 
-<br> 
-<br>
+<hr>
 
    **# 🎨 I draw when bored** <br>
    **# 🎲 Currently Learning Game Development with Godot Engine** <br>
