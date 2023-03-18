@@ -16,7 +16,8 @@
    I ❤️ System76 <br>
 </strong>
 </div>
-
+<br>
+<br>
 <hr>
 
 <div align="left">
