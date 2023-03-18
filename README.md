@@ -4,7 +4,7 @@
       <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg" alt="my profile intro"/></a>
 </div>
 
-<div align="center">
+<div align="right">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Godot-3670A0?style=for-the-badge&logo=godot&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/> 
 </div>
-<br>
 <hr>
 
 <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="210" align="left" alt="Chandra's Dev Card"/></a> 
