@@ -59,9 +59,9 @@
 
 
 <h3 align="center"><strong>~ ~ Contacts ~ ~</strong></h3>
-  <p align="center">
-    <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
-    <a href="https://matrix.to/#/@devnet2.0:matrix.org" target="blank"><img align="center" src="https://img.shields.io/badge/Matrix-%44CF6B5F.svg?logo=Matrix&logoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
-    <a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
-    <a href="<a href="https://replit.com/@samthepacman" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-%23163170.svg?logo=replit&logoColor=white&style=for-the-badge" alt="chanman_xyz"/></a>
+<p align="center">
+<a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
+<a href="https://matrix.to/#/@devnet2.0:matrix.org" target="blank"><img align="center" src="https://img.shields.io/badge/Matrix-%44CF6B5F.svg?logo=Matrix&logoColor=white&style=for-the-badge"/></a>
+<a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge"/></a>
+<a href="<a href="https://replit.com/@samthepacman" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-%23163170.svg?logo=replit&logoColor=white&style=for-the-badge"/></a>
   </p>
