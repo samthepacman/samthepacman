@@ -4,7 +4,7 @@
       <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg" alt="my profile intro"/></a>
 </div>
 
-<div align="center">
+<div align="left">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/> 
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Godot-3670A0?style=for-the-badge&logo=godot&logoColor=ffdd54"/>
@@ -58,8 +58,8 @@
 <hr>
 
 
-<h3 align="center"><strong>~ ~ Contacts ~ ~</strong></h3>
-<p align="center">
+<h3 align="left"><strong><h3> Contacts ~~ </strong></h3>
+<p align="left">
 <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
 <a href="https://matrix.to/#/@devnet2.0:matrix.org" target="blank"><img align="center" src="https://img.shields.io/badge/Matrix-%44CF6B5F.svg?logo=Matrix&logoColor=white&style=for-the-badge"/></a>
 <a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge"/></a>
