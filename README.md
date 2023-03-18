@@ -23,7 +23,6 @@
    **# ❤️ System76** <br>
    **# 💻 OS : Pop!_OS** <br>
    **# 🎮 Engine : Godot 4** <br>
-   <hr>
 
 ## My Fun Goals
       
