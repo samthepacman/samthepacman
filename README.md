@@ -1,7 +1,7 @@
 <div align="center"> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </div>
 <br>
 <div align="center">
-      <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg" alt="my profile intro"/></a>
+      <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg"/></a>
 </div>
 
 <div align="left">
@@ -12,9 +12,11 @@
 <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13"/>
 <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/> 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
-</div><hr>
+</div>
 
 <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="210" align="left" alt="Chandra's Dev Card"/></a> 
+
+## About Me
 
    **# 🎨 I draw when bored** <br>
    **# 🎲 Currently Learning Game Development with Godot Engine** <br>
@@ -22,7 +24,7 @@
    **# 💻 OS : Pop!_OS** <br>
    **# 🎮 Engine : Godot 4** <br>
 
-## My Fun Goals
+## About My Goals
       
    **# 🎮 Create a game before 2k25** <br>
    **# 🏢 Start a small game studio with my friends** <br>
