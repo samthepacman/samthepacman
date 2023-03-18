@@ -9,11 +9,14 @@
 </div>
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/>
-  <strong> 👦 I'm 16 <br>
+<div align="left">  <strong> 👦 I'm 16 <br>
    🎨 I draw when bored <br>
    🎲 Currently Learning Game Development with Godot Engine <br>
    I ❤️ System76 <br>
 </strong>
+</div>
+<div align="right">
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/samthepacman/samthpacman/blob/master/devcard.svg" width="400" alt="SamThePacman's Dev Card"/></a>
 
 <hr>
 
