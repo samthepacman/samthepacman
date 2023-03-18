@@ -1,7 +1,7 @@
 <div align="center"> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </div>
 <br>
 <div align="left">
-      <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.png" alt="my profile intro"/></a>
+      <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg" alt="my profile intro"/></a>
 </div>
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/>
@@ -19,7 +19,7 @@
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
-            src="https://github.com/samthepacman/samthepacman/blob/master/profilel.jpg"
+            src="https://github.com/samthepacman/samthepacman/blob/master/profilel.png"
             alt="my profile intro"
     /></a>
 </div>
