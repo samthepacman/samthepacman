@@ -12,10 +12,9 @@
    I ❤️ System76 <br>
 </strong>
 </div>
+<br>
+<br>
 <hr>
-<br>
-<br>
-
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
