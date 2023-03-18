@@ -26,8 +26,8 @@
    **# 👑 🏴‍☠️ Become the world's greatest game developer** <br>
       
 <br><hr>
-># The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </i></strong></p>
->- Linus Torvards
+>### The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </i></strong></p>
+- Linus Torvards
 <hr>
 
 <div align="left">
