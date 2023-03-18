@@ -14,7 +14,13 @@
    **# ❤️ System76** <br>
    **# 💻 OS : Pop!_OS** <br>
    **# 🎮 Engine : Godot 4** <br>
-   
+   <hr>
+## My Fun Goals
+      
+   **# 🎮 Create a game before 2k25**
+   **# 🏢 Start a small game studio with my friends**
+   **# 👑 🏴‍☠️ Become the world's greatest game developer**
+      
 <br><hr>
 <div align="left">
       <a href="https://github.com/samthepacman"
@@ -50,14 +56,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=IdempotentDots&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/IdempotentDots) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Divergence&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Divergence) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=Desktop-Setup&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/Desktop-Setup) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samthepacman&repo=TheLibrary&bg_color=FBB86C&title_color=1c1b1a&text_color=242220&icon_color=302d2a&border_color=ad804c)](https://github.com/samthepacman/TheLibrary)
 
 <hr>
-<h2 align="left"><strong>My Fun Goals <br></h2>
-      
-<ol type="3">
-  <li>  🎮 Create a game before 2k25</li>
-  <li>  🏢 Start a small game studio with my friends</li>
-  <li>  👑 🏴‍☠️ Become the world's greatest game developer</li>
-</ol>
-</strong>
+
 
 <h3 align="center"><strong>~ ~ Contacts ~ ~</strong></h3>
   <p align="center">
