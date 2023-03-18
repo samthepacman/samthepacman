@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 </div>
 
-<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="210" align="left" alt="Chandra's Dev Card"/></a> 
+<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="250" align="left" alt="Chandra's Dev Card"/></a> 
 
 ## About Me
 
