@@ -9,6 +9,9 @@
 </div>
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/>
+     img {
+        vertical-align: text-top;
+      }
 <div align="left">  <strong> 👦 I'm 16 <br>
    🎨 I draw when bored <br>
    🎲 Currently Learning Game Development with Godot Engine <br>
