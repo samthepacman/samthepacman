@@ -1,4 +1,4 @@
-<div align="center"> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </div>
+<p align="center"> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </p>
 <br>
 <div align="center">
       <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg"/></a>
