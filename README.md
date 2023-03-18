@@ -1,4 +1,4 @@
-<p align="center"><i> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </i></p>
+<p align="center"><strong><i> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </i></strong></p>
 <p align="center">- Linus Torvards -</p>
 
 <br>
