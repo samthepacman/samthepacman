@@ -9,18 +9,14 @@
 </div>
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/>
-     img {
-        vertical-align: text-top;
-      }
+
 <div align="left">  <strong> 👦 I'm 16 <br>
    🎨 I draw when bored <br>
    🎲 Currently Learning Game Development with Godot Engine <br>
    I ❤️ System76 <br>
 </strong>
 </div>
-<div align="right">
-<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="400" alt="Chandra's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="400" align="right" alt="Chandra's Dev Card"/></a>
 
 <hr>
 
