@@ -16,7 +16,8 @@
 </strong>
 </div>
 <div align="right">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/samthepacman/samthpacman/blob/master/devcard.svg" width="400" alt="SamThePacman's Dev Card"/></a>
+<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="400" alt="Chandra's Dev Card"/></a>
+</div>
 
 <hr>
 
