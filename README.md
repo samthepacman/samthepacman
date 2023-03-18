@@ -1,11 +1,4 @@
-<p align="center"><strong><i> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </i></strong></p>
-<p align="center">- Linus Torvards -</p>
-
-<br>
-<div align="center">
-      <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg"/></a>
-</div>
-
+<div align="center"><a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profile.jpg"/></a></div>
 <div align="left">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/> 
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
@@ -33,6 +26,10 @@
    **# 👑 🏴‍☠️ Become the world's greatest game developer** <br>
       
 <br><hr>
+<p align="center"><strong><i> The Linux Philosophy is "Laugh in the face of danger". Oops. Wrong one. "Do it Yourself". Yes, that's it </i></strong></p>
+<p align="center">- Linus Torvards -</p>
+<hr>
+
 <div align="left">
       <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profilel.png"/></a>
 </div>
