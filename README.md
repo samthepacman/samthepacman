@@ -15,9 +15,7 @@
    **# 💻 OS : Pop!_OS** <br>
    **# 🎮 Engine : Godot 4** <br>
    
-<br>
-<br>
-<hr>
+<br><hr>
 <div align="left">
       <a href="https://github.com/samthepacman"
         ><img
