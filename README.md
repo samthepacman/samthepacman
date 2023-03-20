@@ -31,7 +31,6 @@
 <div align="left">
       <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/profilel.png"/></a>
 </div>
-</p>
 <div align="left">
 <img src=https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter>
 <img src=https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab>
