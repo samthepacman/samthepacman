@@ -15,9 +15,9 @@
 ## About Me
 
    **# 🎨 I draw when bored** <br>
-   **# 🎲 Currently Learning Game Development with Godot Engine** <br>
+   **# 🎲 Currently Learning Python** <br>
    **# ❤️ System76** <br>
-   **# 💻 OS : Pop!_OS** <br>
+   **# 💻 OS : Pop!_OS / Ubuntu** <br>
    **# 🎮 Engine : Godot 4** <br>
 
 ## About My Goals
