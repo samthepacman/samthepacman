@@ -14,11 +14,12 @@
 
 ```
    ABOUT ME
-   🎨 I draw when bored
-   🎲 Currently Learning Python
-   ❤️ Love Nature
+   
+   ⛰️ I draw when I'm bored
+   🐍 Currently Learning Python
+   🌲 Love Nature
    💻 Fedora
-   🎮 Engine : Godot
+   🪨 Engine : Godot
 ```
 ```
    About My Goals      
