@@ -26,7 +26,7 @@
    🏢 Start a small game studio with my friends
    👑 🏴‍☠️ Become the world's greatest game developer
 ```
-      
+<hr>     
 <br>
 
 <div align="left">
