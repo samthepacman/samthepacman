@@ -1,5 +1,5 @@
 <div align="center"><a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/assets/mainprof.jpg"/></a></div>
-**One day you will leave this world behind, so live a life you will remember.**
+<strong></strong>One day you will leave this world behind, so live a life you will remember.</strong>
 <div align="left">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/> 
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
