@@ -10,6 +10,7 @@
 </div><hr>
 <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="220" align="right" alt="Chandra's Dev Card"/></a> 
 <strong>One day you will leave this world behind, so live a life you will remember.</strong>
+
 ```
    ABOUT ME
    
