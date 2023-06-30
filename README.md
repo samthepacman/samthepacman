@@ -12,7 +12,7 @@
 
 <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="250" align="left" alt="Chandra's Dev Card"/></a> 
 
-## About Me
+<span style="color:blue">About Me</span>.
 
    **# 🎨 I draw when bored** <br>
    **# 🎲 Currently Learning Python** <br>
