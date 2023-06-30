@@ -1,5 +1,4 @@
 <div align="center"><a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/assets/mainprof.jpg"/></a></div>
-<strong></strong>One day you will leave this world behind, so live a life you will remember.</strong>
 <div align="left">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/> 
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
@@ -10,7 +9,7 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 </div> <hr>
 
-<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="250" align="left" alt="Chandra's Dev Card"/></a> 
+<a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="230" align="left" alt="Chandra's Dev Card"/></a> 
 <strong>One day you will leave this world behind, so live a life you will remember.</strong>
 ```
    ABOUT ME
