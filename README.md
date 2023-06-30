@@ -12,19 +12,20 @@
 
 <a href="https://app.daily.dev/itschanman"><img src="https://api.daily.dev/devcards/722f54ace4db4cc7b84f089a7d378af9.png?r=otf" width="250" align="left" alt="Chandra's Dev Card"/></a> 
 
-<span style="color:blue">About Me</span>.
-
-   **# 🎨 I draw when bored** <br>
-   **# 🎲 Currently Learning Python** <br>
-   **# ❤️ System76** <br>
-   **# 💻 OS : Pop!_OS / Ubuntu** <br>
-   **# 🎮 Engine : Godot 4** <br>
-
-## About My Goals
-      
-   **# 🎮 Create a game before 2k25** <br>
-   **# 🏢 Start a small game studio with my friends** <br>
-   **# 👑 🏴‍☠️ Become the world's greatest game developer** <br>
+```
+   ABOUT ME
+   🎨 I draw when bored
+   🎲 Currently Learning Python
+   ❤️ Love Nature
+   💻 Fedora
+   🎮 Engine : Godot
+```
+```
+   About My Goals      
+   🎮 Create a game before 2k25
+   🏢 Start a small game studio with my friends
+   👑 🏴‍☠️ Become the world's greatest game developer
+```
       
 <br><hr>
 
