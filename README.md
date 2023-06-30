@@ -27,7 +27,7 @@
    👑 🏴‍☠️ Become the world's greatest game developer
 ```
       
-<br><hr>
+<br>
 
 <div align="left">
       <a href="https://github.com/samthepacman"><img src="https://github.com/samthepacman/samthepacman/blob/master/assets/introbanner.png"/></a>
