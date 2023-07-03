@@ -26,8 +26,11 @@
 ***
 
 <div align="center">
+   
 ![learnbanner](https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/introbanner.png)</div>
+
 <div align="left">
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
    
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
