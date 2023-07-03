@@ -43,7 +43,7 @@
 </div>
 
 
-<h3 align="left"><strong><h3> Contacts ~~ </strong></h3>
+![ProfileBanner](https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/contacts.png)
 <p align="left">
 <a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
 <a href="https://matrix.to/#/@devnet2.0:matrix.org" target="blank"><img align="center" src="https://img.shields.io/badge/Matrix-%44CF6B5F.svg?logo=Matrix&logoColor=white&style=for-the-badge"/></a>
