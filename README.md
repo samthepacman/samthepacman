@@ -1,4 +1,4 @@
-![ProfileBanner](https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/mainprof.jpg)</div>
+![ProfileBanner](https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/mainprof.jpg)
 <div align="left">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=FBB86C&style=for-the-badge&logo=github&label=Follow"/> 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
