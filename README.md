@@ -6,16 +6,16 @@
 </div>
 
 ### ABOUT ME
-*⛰️ I draw when I'm bored*<br>
-*🐍 Currently Learning Python*<br>
-*🌲 Love Nature*<br>
-*💻 Fedora*<br>
-*🪨 Engine : Godot*<br>
+**⛰️ I draw when I'm bored**<br>
+**🐍 Currently Learning Python**<br>
+**🌲 Love Nature**<br>
+**💻 Fedora**<br>
+**🪨 Engine : Godot**<br>
 
 ### GOALS
-*🎮 Create a game before 2k25*<br>
-*🏢 Start a small game studio with my friends*<br>
-*👑 🏴‍☠️ Become the world's greatest game developer*<br>
+**🎮 Create a game before 2k25**<br>
+**🏢 Start a small game studio with my friends**<br>
+**👑 🏴‍☠️ Become the world's greatest game developer**<br>
 
 ***
 
