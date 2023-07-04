@@ -15,6 +15,16 @@
 **Hotel** - `Trivago`  <br>
 ***
 
+<div align="center">
+<img src=https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/contacts.png>
+</div>
+<p align="left">
+<a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
+<a href="https://matrix.to/#/@devnet2.0:matrix.org" target="blank"><img align="center" src="https://img.shields.io/badge/Matrix-%44CF6B5F.svg?logo=Matrix&logoColor=white&style=for-the-badge"/></a>
+<a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge"/></a>
+<a href="<a href="https://replit.com/@samthepacman" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-%23163170.svg?logo=replit&logoColor=white&style=for-the-badge"/></a>
+</p>
+
 ### ABOUT ME
 I am a student from India who loves linux and coding. Started using linux when I was 11 and still do. My first ever language was Qbasic and LOGO. I love to draw and take Nature photography. Currently learning python, C# and game development *( even though my laptop doesn't support gaming level stuff 😜 ). * Some of my goals include starting a startup, making a indie game, etc *( Ik ik dreaming too big tbh, but who knows ? someday I'll achieve 'em all ).* 
 
@@ -59,12 +69,3 @@ I am a student from India who loves linux and coding. Started using linux when I
 ``` Note : The Progress shown above are not for the language in total, but a goal set by me to achieve , which will not be mentioned here```
 ***
 
-<div align="center">
-<img src=https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/contacts.png>
-</div>
-<p align="left">
-<a href="https://instagram.com/chanman_xyz" target="blank"><img align="center"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
-<a href="https://matrix.to/#/@devnet2.0:matrix.org" target="blank"><img align="center" src="https://img.shields.io/badge/Matrix-%44CF6B5F.svg?logo=Matrix&logoColor=white&style=for-the-badge"/></a>
-<a href="https://reddit.com/user/chandra_004" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge"/></a>
-<a href="<a href="https://replit.com/@samthepacman" target="blank"><img align="center" src="https://img.shields.io/badge/Replit-%23163170.svg?logo=replit&logoColor=white&style=for-the-badge"/></a>
-</p>
