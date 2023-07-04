@@ -30,11 +30,11 @@ I am a student from India who loves linux and coding. Started using linux when I
 
 ``` Note : For many of the above mentioned language/technologies my progress might have stagnated```
 ***
+<table>
+<tr><th>Languages </th><th>Tools</th></tr>
+<tr><td>
 
-<p>
-<div align="left">
-
-| | |
+| Language | Progress |
 |-|-|
 |**Python** | ![](https://geps.dev/progress/45) |
 |**Arduino** | ![](https://geps.dev/progress/10) |
@@ -42,11 +42,10 @@ I am a student from India who loves linux and coding. Started using linux when I
 |**Javascript** | ![](https://geps.dev/progress/40) |
 |**Rust** | ![](https://geps.dev/progress/20) |
 
-</div>
 
-<div align="right">
+</td><td>
   
-| | |
+| Tool | Progess |
 |-|-|
 |**Gimp** | ![](https://geps.dev/progress/80) |
 |**Blender** | ![](https://geps.dev/progress/30) |
@@ -54,8 +53,8 @@ I am a student from India who loves linux and coding. Started using linux when I
 |**Inkscape** | ![](https://geps.dev/progress/20) |
 |**Krita** | ![](https://geps.dev/progress/10) |
 
-</div>
-</p>
+</td></tr> </table>
+
 
 ``` Note : The Progress shown above are not for the language in total, but a goal set by me to achieve , which will not be mentioned here```
 ***
