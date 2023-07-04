@@ -6,12 +6,12 @@
 </div>
 
 ### ABOUT ME
-I am a student from India who loves linux and coding. 
-Started using linux when I was 11 and still do. 
-My first ever language was Qbasic and LOGO. 
-I love to draw and take Nature photography. 
-Currently learning python, C# and game development *( even though my laptop doesn't support gaming level stuff 😜 ). *
-Some of my goals include starting a startup, making a indie game, etc *( Ik ik dreaming too big tbh, but who knows ? someday I'll achieve 'em all ).*
+I am a student from India who loves linux and coding.  <br>
+Started using linux when I was 11 and still do.  <br>
+My first ever language was Qbasic and LOGO.  <br>
+I love to draw and take Nature photography.  <br>
+Currently learning python, C# and game development *( even though my laptop doesn't support gaming level stuff 😜 ). * <br>
+Some of my goals include starting a startup, making a indie game, etc *( Ik ik dreaming too big tbh, but who knows ? someday I'll achieve 'em all ).* <br>
 
 ***
 
