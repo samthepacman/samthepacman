@@ -7,12 +7,12 @@
 
 ## My Spec Include
 
-**Desktop** - `Gnome` <br>
+**Desktop**        - `Gnome` <br>
 **Major Language** - `Python`  <br>
-**IDE** - `Neovim / Emacs / VSCode`  <br>
+**IDE**            - `Neovim / Emacs / VSCode`  <br>
 **Fav Song Genre** - `Eurobeat / Slowed`  <br>
-**Coolness** - `∞`  <br>
-**Hotel** - `Trivago`  <br>
+**Coolness**       - `∞`  <br>
+**Hotel**          - `Trivago`  <br>
 ***
 
 <div align="center">
