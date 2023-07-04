@@ -6,7 +6,7 @@
 </div>
 
 ### ABOUT ME
-I am a student from India who loves linux and coding. I started using linux when I was 11 and still do. As for coding My first ever language was Qbasic and LOGO. <br>I love to draw and do Nature photography at times. I am currently learning python, C# and game development( even though my laptop doesn't support gaming level stuff 😜 )<br>. Some of my goals include starting a startup, creating a indie game ( Ik ik ik too big tbh, but who knows ? someday I'll achieve 'em all ). <br> I try to keep my code - clean , understandable and modular , atleast I try to. My favourite languages are Python, C#, Rust and Haskell, maybe add in a little C as well.
+I am a student from India who loves linux and coding. I started using linux when I was 11 and still do. As for coding My first ever language was Qbasic and LOGO.I love to draw and do Nature photography at times. I am currently learning python, C# and game development <br> ( even though my laptop doesn't support gaming level stuff 😜 )<br>. Some of my goals include starting a startup, creating a indie game <br>( Ik ik ik too big tbh, but who knows ? someday I'll achieve 'em all ).
 
 ***
 
