@@ -30,7 +30,7 @@ I am a student from India who loves linux and coding. Started using linux when I
 
 ``` Note : For many of the above mentioned language/technologies my progress might have stagnated```
 ***
-<div align="left">
+<div align="center">
   
 | | |
 |-|-|
@@ -41,7 +41,7 @@ I am a student from India who loves linux and coding. Started using linux when I
 |**Rust** | ![](https://geps.dev/progress/20) |
 
 </div>
-<div align="right">
+<div align="center">
   
 | | |
 |-|-|
