@@ -30,9 +30,6 @@ I am a student from India who loves linux and coding. Started using linux when I
 
 ``` Note : For many of the above mentioned language/technologies my progress might have stagnated```
 ***
-
->> As for the major ones for which I've set the goal ( goal not revealed here )
-
 | | |
 |-|-|
 |**Python** | ![](https://geps.dev/progress/45) |
@@ -41,6 +38,7 @@ I am a student from India who loves linux and coding. Started using linux when I
 |**Javascript** | ![](https://geps.dev/progress/40) |
 |**Rust** | ![](https://geps.dev/progress/20) |
 
+``` Note : The Progress shown above are not for the language in total, but a goal set by me to achieve , which will not be mentioned here```
 ***
 
 <div align="center">
