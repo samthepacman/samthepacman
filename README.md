@@ -29,13 +29,14 @@ I am a student from India who loves linux and coding. Started using linux when I
 </div>
 
 ``` Note : For many of the above mentioned language/technologies my progress might have stagnated```
-As for the major ones for which I've set the goal ( goal not revealed here )
+***
+>> As for the major ones for which I've set the goal ( goal not revealed here ) <br>
 
-**Python** - ![](https://geps.dev/progress/45)
-**Arduino** - ![](https://geps.dev/progress/10)
-**C#** - ![](https://geps.dev/progress/20)
-**Javascript** - ![](https://geps.dev/progress/40)
-**Rust** ![](https://geps.dev/progress/20)
+**Python** - ![](https://geps.dev/progress/45) <br>
+**Arduino** - ![](https://geps.dev/progress/10) <br>
+**C#** - ![](https://geps.dev/progress/20) <br>
+**Javascript** - ![](https://geps.dev/progress/40) <br>
+**Rust** ![](https://geps.dev/progress/20) <br>
 
 ***
 
