@@ -5,24 +5,18 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 </div>
 
-```
-   ABOUT ME
-   --------
-   
-   ⛰️ I draw when I'm bored
-   🐍 Currently Learning Python
-   🌲 Love Nature
-   💻 Fedora
-   🪨 Engine : Godot
-```
-```
-   GOALS
-   -----
-      
-   🎮 Create a game before 2k25
-   🏢 Start a small game studio with my friends
-   👑 🏴‍☠️ Become the world's greatest game developer
-```
+### ABOUT ME
+*⛰️ I draw when I'm bored*
+*🐍 Currently Learning Python*
+*🌲 Love Nature*
+*💻 Fedora*
+*🪨 Engine : Godot*
+
+### GOALS
+*🎮 Create a game before 2k25*
+*🏢 Start a small game studio with my friends*
+*👑 🏴‍☠️ Become the world's greatest game developer*
+
 ***
 
 <div align="center">
