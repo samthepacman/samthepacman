@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/mainprof.jpg"></div>
 <div align="left">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?fontColor=black&style=for-the-badge&logo=github&label=Follow&logoColor=black"/> 
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?foregroundColor=black&style=for-the-badge&logo=github&label=Follow&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black&color=black"/> 
 </div>
 
