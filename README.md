@@ -43,6 +43,7 @@ I am a student from India who loves linux and coding. Started using linux when I
 |**Rust** | ![](https://geps.dev/progress/20) |
 
 </div>
+
 <div align="right">
   
 | | |
