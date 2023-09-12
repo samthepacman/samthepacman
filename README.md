@@ -38,34 +38,34 @@ I am a student from India who loves linux and coding. Started using linux when I
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Node](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-3670A0?style=for-the-badge&logo=godot&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 </div>
 
-``` Note : For many of the above mentioned language/technologies my progress might have stagnated```
+[//]: <> (``` Note : For many of the above mentioned language/technologies my progress might have stagnated```)
 ***
-<table>
-<tr><th>Languages </th><th>Tools</th></tr>
-<tr><td>
+[//]: <> (<table>)
+[//]: <> (<tr><th>Languages </th><th>Tools</th></tr>)
+[//]: <> (<tr><td>)
 
-| Language | Progress |
-|-|-|
-|**Python** | ![](https://geps.dev/progress/45) |
-|**Arduino** | ![](https://geps.dev/progress/10) |
-|**C#** | ![](https://geps.dev/progress/20) |
-|**Javascript** | ![](https://geps.dev/progress/40) |
-|**Rust** | ![](https://geps.dev/progress/20) |
+[//]: <>  (| Language | Progress |)
+[//]: <> (|-|-|)
+[//]: <> (|**Python** | ![](https://geps.dev/progress/45) |)
+[//]: <> (|**Arduino** | ![](https://geps.dev/progress/10) |)
+[//]: <> (|**C#** | ![](https://geps.dev/progress/20) |)
+[//]: <> (|**Javascript** | ![](https://geps.dev/progress/40) |)
+[//]: <> (|**Rust** | ![](https://geps.dev/progress/20) |)
 
 
-</td><td>
+[//]: <> (</td><td>)
   
-| Tool | Progess |
-|-|-|
-|**Gimp** | ![](https://geps.dev/progress/80) |
-|**Blender** | ![](https://geps.dev/progress/30) |
-|**Figma** | ![](https://geps.dev/progress/5) |
-|**Inkscape** | ![](https://geps.dev/progress/20) |
-|**Krita** | ![](https://geps.dev/progress/10) |
+[//]: <> (| Tool | Progess |)
+[//]: <> (|-|-|)
+[//]: <> (|**Gimp** | ![](https://geps.dev/progress/80) |)
+[//]: <> (|**Blender** | ![](https://geps.dev/progress/30) |)
+[//]: <> (|**Figma** | ![](https://geps.dev/progress/5) |)
+[//]: <> (|**Inkscape** | ![](https://geps.dev/progress/20) |)
+[//]: <> (|**Krita** | ![](https://geps.dev/progress/10) |)
 
-</td></tr> </table>
+[//]: <> (</td></tr> </table>)
 
 
-``` Note : The Progress shown above are not for the language in total, but a goal set by me to achieve , which will not be mentioned here```
-***
+[//]: <> (``` Note : The Progress shown above are not for the language in total, but a goal set by me to achieve , which will not be mentioned here```)
+[//]: <> (***)
 
