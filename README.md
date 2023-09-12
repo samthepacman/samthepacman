@@ -7,10 +7,9 @@
 
 ## My Spec Include
 
-**Desktop**        - `Gnome` <br>
+**Desktop**        - `GNU / Linux` <br>
 **Major Language** - `Python`  <br>
-**IDE**            - `Neovim / Emacs / VSCode`  <br>
-**Fav Song Genre** - `Eurobeat / Slowed`  <br>
+**IDE**            - `Emacs / VSCode`  <br>
 **Coolness**       - `∞`  <br>
 **Hotel**          - `Trivago`  <br>
 ***
