@@ -7,8 +7,8 @@
 
 ## My Spec Include
 
-**Desktop**        - `GNU / Linux` <br>
-**Major Language** - `Python`  <br>
+**OS**        - `Linux` <br>
+**Major Language** - `Python / JS / Rust`  <br>
 **IDE**            - `Emacs / VSCode`  <br>
 **Coolness**       - `∞`  <br>
 **Hotel**          - `Trivago`  <br>
