@@ -3,9 +3,11 @@
 <div align="left">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=1ED760&style=for-the-badge&logo=github&label=Follow&logoColor=black"/> 
 </div>
+
 ```
 Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate student with a keen interest in Python, web development, and artificial intelligence. Currently, I'm working on an exciting project that I can't wait to share with you soon!
 ```
+
 ## About Me
 
 - 🎓 I'm pursuing my Bachelor's degree in Computer Science.
