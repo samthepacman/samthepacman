@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate st
 
 - 🎓 I'm pursuing my Bachelor's degree in Computer Science.
 - 💻 I'm currently learning Python, JavaScript and Rust.
-- 🤖 I'm fascinated by artificial intelligence and machine learning and enjoy exploring topics such as natural language processing, computer vision, and reinforcement learning.
+- 🤖 I'm fascinated by artificial intelligence and enjoy exploring topics such as natural language processing, and reinforcement learning.
 - 🌱 I'm constantly learning and expanding my skill set to stay updated with the latest technologies in the field of computer science.
 
 ## Get in Touch
