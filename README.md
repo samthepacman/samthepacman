@@ -5,7 +5,10 @@
 </div>
 
 ```
-Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate student with a keen interest in Python, web development, and artificial intelligence. Currently, I'm working on an exciting project that I can't wait to share with you soon!
+Welcome to my GitHub profile!
+I'm a passionate Computer Science undergraduate student with a
+keen interest in Python,web development, and artificial intelligence.
+Currently, I'm working on an exciting project that I can't wait to share with you soon!
 ```
 
 ## About Me
