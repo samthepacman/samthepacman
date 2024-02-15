@@ -16,7 +16,7 @@ Currently, I'm working on an exciting project that I can't wait to share with yo
 - 🎓 I'm pursuing my Bachelor's degree in Computer Science.
 - 💻 I'm currently learning Python, JavaScript and Rust.
 - 🤖 I'm fascinated by artificial intelligence and enjoy exploring topics such as natural language processing.
-- 🌱 I'm constantly learning and expanding my skill set to stay updated with the latest technologies in the field of computer science.
+- 🌱 I'm constantly learning and expanding my skill set to stay updated with the latest technologies.
 ```
 ## Get in Touch
 
