@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/mainprof.jpg"></div>
+<img src="https://raw.githubusercontent.com/samthepacman/samthepacman/master/assets/mainprof.jpg" style="width: 55vw"/></div>
 <div align="left">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samthepacman?color=1ED760&style=for-the-badge&logo=github&label=Follow&logoColor=black"/> 
 </div>
