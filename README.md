@@ -3,6 +3,7 @@
 <div align="left">
 </div>
 
+*****
 
 Welcome to my GitHub profile!
 I'm a passionate Computer Science undergraduate student with a
