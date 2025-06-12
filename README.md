@@ -23,7 +23,5 @@ Currently, I'm working on an exciting project that I can't wait to share with yo
 I'm always open to collaborating on exciting projects or discussing computer science-related topics. Feel free to reach out to me via:
 
 - 📧 Email: [chandrartic@gmail.com](chandrartic@gmail.com)
-- 💼 LinkedIn: [Chandrasekar S](https://www.linkedin.com/in/chandrasekar-s-328b60292/)
-- 📱 Instagram: [chanman_jk](https://instagram.com/chanman_jk)
 
 Let's connect and create something amazing together!
