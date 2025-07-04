@@ -90,13 +90,7 @@
 
 ---
 
-### 🌍 Languages I Speak
-
-> 🗣️ Tamil • English • Hindi • Malayalam • Spanish
-
----
-
-### 📫 Reach Me
+### 📫 Reach Me via
 
 [![Email](https://img.shields.io/badge/Email-chandrartic@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chandrartic@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-athxrvx-181717?style=flat&logo=github&logoColor=white)](https://github.com/athxrvx)
