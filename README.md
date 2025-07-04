@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/athxrvx/athxrvx/refs/heads/master/assets/img8.jpg" alt="banner" width="100%" />
 </p>
-
-<h1 align="center">hey, i'm chandra 👋</h1>
-
 <p align="center"><i>"I write code, craft tools, and break things to understand how they work."</i></p>
 
 ---
