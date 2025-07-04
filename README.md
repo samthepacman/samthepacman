@@ -30,29 +30,18 @@
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 ![LISP](https://img.shields.io/badge/LISP-3A4958?style=flat&logo=gnu-emacs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-#### 🌐 Web & UI Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111111?style=flat)
-
-#### 🧱 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-#### 📱 Mobile & App Dev
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-#### 🎮 Game Dev
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
-
-#### 🧠 AI / ML / LLM
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat&logo=openai&logoColor=white)
@@ -60,8 +49,6 @@
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat)
 ![vLLM](https://img.shields.io/badge/vLLM-202020?style=flat)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat)
-
-#### ⚙️ Systems & Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![BSD](https://img.shields.io/badge/BSD-AB2B28?style=flat&logo=freebsd&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -69,8 +56,6 @@
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 ![Guix](https://img.shields.io/badge/Guix-FFD700?style=flat&logo=gnu&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-#### 🎨 Design & Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Penpot](https://img.shields.io/badge/Penpot-635BFF?style=flat&logo=penpot&logoColor=white)
 ![Lunacy](https://img.shields.io/badge/Lunacy-000000?style=flat&logoColor=white)
@@ -102,10 +87,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-athxrvx-181717?style=flat&logo=github&logoColor=white)](https://github.com/athxrvx)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/athxrvx/athxrvx/main/assets/footer.png" alt="footer" width="200" />
-</p>
 
 <p align="center">
   <i>"I believe in quiet tools and building things that respect your time."</i>
