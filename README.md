@@ -37,7 +37,7 @@
 ---
 <table width="100%" style="table-layout: fixed;">
   <tr>
-    <td width="30%" valign="top" style="padding-right: 2%;">
+    <td width="50%" valign="top" style="padding-right: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                           📊 GITHUB STATS                         ┃
@@ -64,7 +64,7 @@
         />
       </p>
     </td>
-    <td width="45%" valign="top" style="padding-left: 2%;">
+    <td width="50%" valign="top" style="padding-left: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                        🛠️ TOOLS & TECHNOLOGIES                    ┃
