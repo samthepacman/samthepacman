@@ -130,32 +130,33 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=athxrvx&show_icons=true&theme=github-dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=athxrvx&show_icons=true&theme=dark&hide_border=true" 
     width="47%" 
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=github-dark&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true" 
     width="47%" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=github-dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark" 
     width="96%" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=github-dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true" 
     width="47%" 
   />
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=athxrvx&theme=github-dark&no-frame=true&row=1&column=6" 
+    src="https://github-profile-trophy.vercel.app/?username=athxrvx&theme=dark&no-frame=true&row=1&column=6" 
     width="47%" 
   />
 </p>
+
 
 ---
 
