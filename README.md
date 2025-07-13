@@ -35,15 +35,49 @@
 - 📚 Functional & expressive programming (Haskell, Lisp)  
 
 ---
-<table width="100%">
+<table width="100%" style="table-layout: fixed;">
   <tr>
-    <td width="48%" valign="top" style="padding-right: 2%;">
-      <pre>
+    <!-- Left column: GitHub stats -->
+    <td width="50%" valign="top" style="padding-right: 2%;">
+      <pre style="white-space: pre-wrap; word-break: break-word;">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                           📊 GITHUB STATS                         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+      </pre>
+      <p align="center" style="margin: 0;">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
+          alt="GitHub Streak"
+          width="100%"
+          style="margin-bottom: 15px; border-radius: 12px;"
+        />
+        
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
+          alt="Most Used Languages"
+          width="100%"
+          style="margin-bottom: 15px; border-radius: 12px;"
+        />
+        
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
+          alt="Profile Summary"
+          width="100%"
+          style="border-radius: 12px;"
+        />
+      </p>
+    </td>
+
+    <!-- Right column: Badges -->
+    <td width="48%" valign="top" style="padding-left: 2%;">
+      <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                        🛠️ TOOLS & TECHNOLOGIES                    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
       </pre>
-      <p>
+
+      <!-- Paste your badges markdown here -->
+      <p style="margin: 0;">
       💻 Programming Languages<br/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -58,30 +92,35 @@
       <img src="https://img.shields.io/badge/LISP-3A4958?style=for-the-badge&logo=gnu-emacs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       </p>
-      <p>
+
+      <p style="margin: 0;">
       🌐 Web & UI Frameworks<br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge" />
       </p>
-      <p>
+
+      <p style="margin: 0;">
       🧱 Backend & Databases<br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
-      <p>
+
+      <p style="margin: 0;">
       📱 Mobile & App Dev<br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       </p>
-      <p>
+
+      <p style="margin: 0;">
       🎮 Game Dev<br/>
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
       <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
       </p>
-      <p>
+
+      <p style="margin: 0;">
       🧠 AI / ML / LLM<br/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -91,7 +130,8 @@
       <img src="https://img.shields.io/badge/vLLM-202020?style=for-the-badge" />
       <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge" />
       </p>
-      <p>
+
+      <p style="margin: 0;">
       ⚙️ Systems & Infra<br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
@@ -101,7 +141,8 @@
       <img src="https://img.shields.io/badge/Guix-FFD700?style=for-the-badge&logo=gnu&logoColor=black" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </p>
-      <p>
+
+      <p style="margin: 0;">
       🎨 Design & Creative Tools<br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/Penpot-635BFF?style=for-the-badge&logo=penpot&logoColor=white" />
@@ -111,37 +152,9 @@
       <img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=sketch&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top" style="padding-left: 2%;">
-      <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                           📊 GITHUB STATS                         ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-      </pre>
-      <p align="center">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
-          alt="GitHub Streak"
-          width="100%"
-          style="margin-bottom: 15px; border-radius: 12px;"
-        />
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
-          alt="Most Used Languages"
-          width="100%"
-          style="margin-bottom: 15px; border-radius: 12px;"
-        />
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
-          alt="Profile Summary"
-          width="100%"
-          style="border-radius: 12px;"
-        />
-      </p>
-    </td>
   </tr>
 </table>
-
---
+---
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                           📫 REACH ME                             ┃
