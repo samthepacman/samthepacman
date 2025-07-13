@@ -1,5 +1,3 @@
-<img width="384" height="770" alt="image" src="https://github.com/user-attachments/assets/46f1fe06-c28e-4ec6-afd0-12f6a182cd81" /><!-- Banner -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/athxrvx/athxrvx/refs/heads/master/assets/img8.jpg" alt="banner" width="100%" />
 </p>
