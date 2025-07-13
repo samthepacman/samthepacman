@@ -63,8 +63,6 @@
       </p>
     </td>
     <td width="30%" valign="top" style="padding-left: 2%;">
-      <pre style="white-space: pre-wrap; word-break: break-word;">
-      </pre>
       <p style="margin: 0;">
       💻 Programming Languages<br/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
