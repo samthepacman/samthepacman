@@ -128,32 +128,32 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 <p align="center">
+  <!-- Row 1: Stats + Streak -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=athxrvx&show_icons=true&theme=dark&hide_border=true&count_private=true"
-    width="45%"
-    style="margin-right: 2%; border-radius: 12px;"
+    width="48%"
+    style="border-radius: 12px; margin-right: 4%;"
     alt="GitHub Stats"
   />
-  
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
-    width="45%"
+    width="48%"
     style="border-radius: 12px;"
-    alt="GitHub Streak"
+    alt="GitHub Streak Stats"
   />
 </p>
 
-<p align="center" style="margin-top: 30px;">
+<p align="center" style="margin-top: 20px;">
+  <!-- Row 2: Languages + Profile Summary -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
-    width="45%"
-    style="margin-right: 2%; border-radius: 12px;"
+    width="48%"
+    style="border-radius: 12px; margin-right: 4%;"
     alt="Most Used Languages"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
-    width="45%"
+    width="48%"
     style="border-radius: 12px;"
     alt="Profile Summary"
   />
