@@ -47,24 +47,24 @@
         <img
           src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
           alt="GitHub Streak"
-          width="100%"
+          width="80%"
           style="margin-bottom: 15px; border-radius: 12px;"
         />
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
           alt="Most Used Languages"
-          width="100%"
+          width="80%"
           style="margin-bottom: 15px; border-radius: 12px;"
         />
         <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
           alt="Profile Summary"
-          width="100%"
+          width="80%"
           style="border-radius: 12px;"
         />
       </p>
     </td>
-    <td width="48%" valign="top" style="padding-left: 2%;">
+    <td width="45%" valign="top" style="padding-left: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                        🛠️ TOOLS & TECHNOLOGIES                    ┃
