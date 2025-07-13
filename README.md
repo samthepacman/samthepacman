@@ -37,7 +37,6 @@
 ---
 <table width="100%" style="table-layout: fixed;">
   <tr>
-    <!-- Left column: GitHub stats -->
     <td width="50%" valign="top" style="padding-right: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -51,14 +50,12 @@
           width="100%"
           style="margin-bottom: 15px; border-radius: 12px;"
         />
-        
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
           alt="Most Used Languages"
           width="100%"
           style="margin-bottom: 15px; border-radius: 12px;"
         />
-        
         <img
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
           alt="Profile Summary"
@@ -67,16 +64,12 @@
         />
       </p>
     </td>
-
-    <!-- Right column: Badges -->
     <td width="48%" valign="top" style="padding-left: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                        🛠️ TOOLS & TECHNOLOGIES                    ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
       </pre>
-
-      <!-- Paste your badges markdown here -->
       <p style="margin: 0;">
       💻 Programming Languages<br/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -92,14 +85,12 @@
       <img src="https://img.shields.io/badge/LISP-3A4958?style=for-the-badge&logo=gnu-emacs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       </p>
-
       <p style="margin: 0;">
       🌐 Web & UI Frameworks<br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge" />
       </p>
-
       <p style="margin: 0;">
       🧱 Backend & Databases<br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -107,19 +98,16 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
-
       <p style="margin: 0;">
       📱 Mobile & App Dev<br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       </p>
-
       <p style="margin: 0;">
       🎮 Game Dev<br/>
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
       <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
       </p>
-
       <p style="margin: 0;">
       🧠 AI / ML / LLM<br/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -130,7 +118,6 @@
       <img src="https://img.shields.io/badge/vLLM-202020?style=for-the-badge" />
       <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge" />
       </p>
-
       <p style="margin: 0;">
       ⚙️ Systems & Infra<br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -141,7 +128,6 @@
       <img src="https://img.shields.io/badge/Guix-FFD700?style=for-the-badge&logo=gnu&logoColor=black" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </p>
-
       <p style="margin: 0;">
       🎨 Design & Creative Tools<br/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
