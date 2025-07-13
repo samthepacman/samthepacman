@@ -142,7 +142,8 @@
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark" 
-    width="47%" 
+    width="47%"
+    height="100%"
   />
     <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true" 
