@@ -62,7 +62,7 @@
         />
       </p>
     </td>
-    <td width="30%" valign="top" style="padding-left: 2%;">
+    <td width="30%" valign="top" style="padding-right: 2%;">
       <p style="margin: 0;">
       <code>Programming Languages</code><br/>
       <br>
