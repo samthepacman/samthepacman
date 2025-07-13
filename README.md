@@ -64,9 +64,6 @@
     </td>
     <td width="30%" valign="top" style="padding-left: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                        🛠️ TOOLS & TECHNOLOGIES                    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
       </pre>
       <p style="margin: 0;">
       💻 Programming Languages<br/>
