@@ -62,7 +62,7 @@
         />
       </p>
     </td>
-    <td width="48%" valign="top" style="padding-left: 2%;">
+    <td width="30%" valign="top" style="padding-left: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                        🛠️ TOOLS & TECHNOLOGIES                    ┃
