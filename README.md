@@ -120,9 +120,7 @@
       </p>
     </td>
         <td width="50%" valign="top" style="padding-right: 2%;">
-      <pre style="white-space: pre-wrap; word-break: break-word;">
-      [   S   T   A   T   S   ]
-      </pre>
+      <CODE>[   S   T   A   T   S   ]</CODE>
       <p align="right" style="margin: 0;">
         <img
           src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
@@ -143,9 +141,7 @@
           style="border-radius: 12px;"
         />
       </p>
-      <pre>
-      [  C  O  N  T  A  C  T  S  ]
-</pre>
+      <CODE>[  C  O  N  T  A  C  T  S  ]</CODE>
 
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
 |------------------------------|------------------------------|----------------------|
