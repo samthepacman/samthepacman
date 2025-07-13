@@ -65,6 +65,7 @@
     <td width="30%" valign="top" style="padding-left: 2%;">
       <p style="margin: 0;">
       <code>Programming Languages</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -81,6 +82,7 @@
       <hr>
       <p style="margin: 0;">
       <code>Web & UI Frameworks</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge" />
@@ -88,6 +90,7 @@
       <hr>
       <p style="margin: 0;">
       <code>Backend & Databases</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -96,18 +99,21 @@
       <hr>
       <p style="margin: 0;">
       <code>Mobile & App Dev</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
       </p>
       <hr>
       <p style="margin: 0;">
       <code>Game Dev</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
       <img src="https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
       </p>
       <hr>
       <p style="margin: 0;">
       <code>AI / ML / LLM</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -119,6 +125,7 @@
       <hr>
       <p style="margin: 0;">
       <code>Systems & Infra</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -130,6 +137,7 @@
       <hr>
       <p style="margin: 0;">
       <code>Design & Creative Tools</code><br/>
+      <br>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/Penpot-635BFF?style=for-the-badge&logo=penpot&logoColor=white" />
       <img src="https://img.shields.io/badge/Lunacy-000000?style=for-the-badge&logoColor=white" />
