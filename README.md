@@ -128,13 +128,6 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=athxrvx&show_icons=true&theme=dark&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-    width="100%"
-    style="margin: 0 0.5%; border-radius: 12px;"
-  />
   
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
