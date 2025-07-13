@@ -151,11 +151,16 @@
 <br>
 <p><code>I also do some photography ;)</code></p>
 
-<div style="width: 400px; height: 600px; overflow: hidden;">
+<div align="center" style="display: inline-block; overflow: hidden; width: 300px; height: 400px;">
   <img
     src="https://images.unsplash.com/photo-1699843052537-7d5524d5fef6?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     alt="Rotated Photography"
-    style="width: 600px; transform: rotate(90deg); transform-origin: top left; border-radius: 12px;"
+    style="
+      transform: rotate(90deg);
+      transform-origin: top left;
+      width: 400px;
+      border-radius: 12px;
+    "
   />
 </div>
    </td>
