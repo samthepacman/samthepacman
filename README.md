@@ -149,14 +149,11 @@
 |------------------------------|------------------------------|----------------------|
 | chandrartic@gmail.com        | [@athxrvx](https://github.com/athxrvx) | soon |
 <br>
-<h3>🎵 Vibes While You Read</h3>
-<iframe 
-  src="https://www.lofi.cafe" 
-  width="100%" 
-  height="500" 
-  style="border: none; border-radius: 12px;"
-  allow="autoplay"
-></iframe>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+    <img src="https://img.shields.io/badge/🎧%20Lofi%20Beats%20Stream-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Beats" />
+  </a>
+</p>
    </td>
   </tr>
 </table>
