@@ -33,7 +33,7 @@
 - 📚 Functional & expressive programming (Haskell, Lisp)  
 
 ---
-<table width="100%" style="table-layout: fixed;">
+<table width="100%" style="table-layout: dyanmic;">
   <tr>
     <td width="50%" valign="top" style="padding-right: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
