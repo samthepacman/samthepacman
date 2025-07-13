@@ -41,7 +41,7 @@
 ┃                           📊 GITHUB STATS                         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
       </pre>
-      <p align="center" style="margin: 0;">
+      <p align="right" style="margin: 0;">
         <img
           src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
           alt="GitHub Streak"
