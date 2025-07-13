@@ -149,6 +149,7 @@
 |------------------------------|------------------------------|----------------------|
 | chandrartic@gmail.com        | [@athxrvx](https://github.com/athxrvx) | soon |
 <br>
+<h3>listen to some music while you read/code</h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
     <img src="https://img.shields.io/badge/🎧%20Lofi%20Beats%20Stream-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Beats" />
