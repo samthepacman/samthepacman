@@ -144,15 +144,11 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark" 
     width="96%" 
   />
-</p>
-
-<p align="center">
-  <img 
+    <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true" 
     width="47%" 
   />
 </p>
-
 
 ---
 
