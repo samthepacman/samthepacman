@@ -1,4 +1,4 @@
-<!-- Banner -->
+<img width="384" height="770" alt="image" src="https://github.com/user-attachments/assets/46f1fe06-c28e-4ec6-afd0-12f6a182cd81" /><!-- Banner -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/athxrvx/athxrvx/refs/heads/master/assets/img8.jpg" alt="banner" width="100%" />
@@ -75,12 +75,12 @@
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <br>
       <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-      <br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <br>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge" />
       <br>
@@ -92,14 +92,15 @@
       🌐 Web & UI Frameworks<br/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge" />
       </p>
       <p style="margin: 0;">
       🧱 Backend & Databases<br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
       <p style="margin: 0;">
@@ -116,20 +117,23 @@
       🧠 AI / ML / LLM<br/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
       <br>
+      <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/NVIDIA-AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" />
       <img src="https://img.shields.io/badge/vLLM-202020?style=for-the-badge" />
+      <br>
       <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge" />
       </p>
       <p style="margin: 0;">
       ⚙️ Systems & Infra<br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Podman-89CFF0?style=for-the-badge&logo=linux&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
       <img src="https://img.shields.io/badge/Guix-FFD700?style=for-the-badge&logo=gnu&logoColor=black" />
       <br>
@@ -143,6 +147,7 @@
       <br>
       <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
       <img src="https://img.shields.io/badge/DaVinci-Resolve-black?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
+      <br>
       <img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=sketch&logoColor=white" />
       </p>
     </td>
