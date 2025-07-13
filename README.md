@@ -127,29 +127,38 @@
 ┃                           📊 GITHUB STATS                         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=athxrvx&show_icons=true&theme=dark&hide_border=true" 
-    width="47%" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=athxrvx&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    width="45%"
+    style="margin-right: 2%; border-radius: 12px;"
+    alt="GitHub Stats"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true" 
-    width="47%" 
+  
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
+    width="45%"
+    style="border-radius: 12px;"
+    alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark" 
-    width="47%"
-    height="100%"
+<p align="center" style="margin-top: 30px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
+    width="45%"
+    style="margin-right: 2%; border-radius: 12px;"
+    alt="Most Used Languages"
   />
-    <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true" 
-    width="47%" 
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
+    width="45%"
+    style="border-radius: 12px;"
+    alt="Profile Summary"
   />
 </p>
+
 
 ---
 
