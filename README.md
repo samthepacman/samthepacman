@@ -151,10 +151,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true" 
     width="47%" 
   />
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=athxrvx&theme=dark&no-frame=true&row=1&column=6" 
-    width="47%" 
-  />
 </p>
 
 
