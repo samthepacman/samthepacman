@@ -149,15 +149,14 @@
 |------------------------------|------------------------------|----------------------|
 | chandrartic@gmail.com        | [@athxrvx](https://github.com/athxrvx) | soon |
 <br>
-<p><code>I also do some photography ;)</code></p>
-
-<div align="center" style="display: inline-block; overflow: hidden; width: 300px; height: 400px;">
-  <img
-    src="https://images.unsplash.com/photo-1680439831472-fdf07444bdec?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    alt="Rotated Photography"
-    style="transform: rotate(90deg); transform-origin: top left; width: 400px; border-radius: 12px;"
-  />
-</div>
+<h3>🎵 Vibes While You Read</h3>
+<iframe 
+  src="https://www.lofi.cafe" 
+  width="100%" 
+  height="500" 
+  style="border: none; border-radius: 12px;"
+  allow="autoplay"
+></iframe>
    </td>
   </tr>
 </table>
