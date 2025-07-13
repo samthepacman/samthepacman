@@ -121,9 +121,7 @@
     </td>
         <td width="50%" valign="top" style="padding-right: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                📊 GITHUB STATS                   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+      [   S   T   A   T   S   ]
       </pre>
       <p align="right" style="margin: 0;">
         <img
@@ -146,9 +144,7 @@
         />
       </p>
       <pre>
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                 📫 REACH ME                    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+      [  C  O  N  T  A  C  T  S  ]
 </pre>
 
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
