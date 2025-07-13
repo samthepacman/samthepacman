@@ -35,7 +35,7 @@
 ---
 <table width="100%" style="table-layout: dyanmic;">
   <tr>
-    <td width="50%" valign="top" style="padding-right: 2%;">
+    <td width="35%" valign="top" style="padding-right: 2%;">
       <p style="margin: 0;">
       <code>Programming Languages</code><br/>
       <br>
