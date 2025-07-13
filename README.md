@@ -148,7 +148,16 @@
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
 |------------------------------|------------------------------|----------------------|
 | chandrartic@gmail.com        | [@athxrvx](https://github.com/athxrvx) | soon |
-
+<br>
+<p><code>I also do some photography ;)</code></p>
+      <p>
+        <img
+          src="https://images.unsplash.com/photo-1699843052537-7d5524d5fef6?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          alt="Profile Summary"
+          width="100%"
+          style="border-radius: 12px;"
+        />
+      </p>
    </td>
   </tr>
 </table>
