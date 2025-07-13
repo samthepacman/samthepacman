@@ -37,7 +37,7 @@
 ---
 <table width="100%" style="table-layout: fixed;">
   <tr>
-    <td width="40%" valign="top" style="padding-right: 2%;">
+    <td width="30%" valign="top" style="padding-right: 2%;">
       <pre style="white-space: pre-wrap; word-break: break-word;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃                           📊 GITHUB STATS                         ┃
