@@ -35,33 +35,6 @@
 ---
 <table width="100%" style="table-layout: dyanmic;">
   <tr>
-    <td width="50%" valign="top" style="padding-right: 2%;">
-      <pre style="white-space: pre-wrap; word-break: break-word;">
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                           📊 GITHUB STATS                         ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-      </pre>
-      <p align="right" style="margin: 0;">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
-          alt="GitHub Streak"
-          width="100%"
-          style="margin-bottom: 15px; border-radius: 12px;"
-        />
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
-          alt="Most Used Languages"
-          width="100%"
-          style="margin-bottom: 15px; border-radius: 12px;"
-        />
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
-          alt="Profile Summary"
-          width="100%"
-          style="border-radius: 12px;"
-        />
-      </p>
-    </td>
     <td width="30%" valign="top" style="padding-right: 2%;">
       <p style="margin: 0;">
       <code>Programming Languages</code><br/>
@@ -144,6 +117,33 @@
       <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
       <img src="https://img.shields.io/badge/DaVinci-Resolve-black?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
       <img src="https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=sketch&logoColor=white" />
+      </p>
+    </td>
+        <td width="50%" valign="top" style="padding-right: 2%;">
+      <pre style="white-space: pre-wrap; word-break: break-word;">
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                           📊 GITHUB STATS                         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+      </pre>
+      <p align="right" style="margin: 0;">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
+          alt="GitHub Streak"
+          width="100%"
+          style="margin-bottom: 15px; border-radius: 12px;"
+        />
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvx&layout=compact&langs_count=10&theme=dark&hide_border=true"
+          alt="Most Used Languages"
+          width="100%"
+          style="margin-bottom: 15px; border-radius: 12px;"
+        />
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athxrvx&theme=dark"
+          alt="Profile Summary"
+          width="100%"
+          style="border-radius: 12px;"
+        />
       </p>
     </td>
   </tr>
