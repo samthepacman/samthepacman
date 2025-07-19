@@ -116,8 +116,8 @@
       </p>
     </td>
         <td width="50%" valign="top" style="padding-right: 2%;">
-      <CODE>Stats</CODE>
       <hr>
+      <CODE>Stats</CODE>
       <p align="right" style="margin: 0;">
         <img
           src="https://github-readme-streak-stats.herokuapp.com?user=athxrvx&theme=dark&hide_border=true"
@@ -138,8 +138,8 @@
           style="border-radius: 12px;"
         />
       </p>
-      <CODE>Contacts</CODE>
       <hr>
+      <CODE>Contacts</CODE>
 
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
 |------------------------------|------------------------------|----------------------|
