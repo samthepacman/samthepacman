@@ -143,9 +143,12 @@
       <CODE>Contacts</CODE>
   <br>
   <br>
+
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
 |------------------------------|------------------------------|----------------------|
 | athxrvx@proton.me        | [@athxrvx](https://github.com/athxrvx) | soon |
+
+<br>
 <br>
 <h3>listen to some music while you read/code</h3>
 <p align="center">
