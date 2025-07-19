@@ -7,9 +7,7 @@
 ---
 
 <pre>
-
 [ ABOUT ME ]
-  
 </pre>
 
 - 🎓 CS undergrad who enjoys building tools, OS-level things, and minimalist interfaces  
@@ -21,7 +19,6 @@
 
 
 <pre>
-
 [ CURRENTLY EXPLORING ]
 </pre>
 
