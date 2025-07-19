@@ -117,6 +117,7 @@
     </td>
         <td width="50%" valign="top" style="padding-right: 2%;">
       <CODE>Stats</CODE>
+
       <br>
       <p align="right" style="margin: 0;">
         <img
@@ -140,6 +141,7 @@
       </p>
       <hr>
       <CODE>Contacts</CODE>
+
       <br>
 
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
