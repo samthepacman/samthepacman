@@ -116,7 +116,7 @@
       </p>
     </td>
         <td width="50%" valign="top" style="padding-right: 2%;">
-      <CODE>[   S   T   A   T   S   ]</CODE>
+      <CODE>Stats</CODE>
       <hr>
       <p align="right" style="margin: 0;">
         <img
@@ -138,7 +138,7 @@
           style="border-radius: 12px;"
         />
       </p>
-      <CODE>[  C  O  N  T  A  C  T  S  ]</CODE>
+      <CODE>Contacts</CODE>
       <hr>
 
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
