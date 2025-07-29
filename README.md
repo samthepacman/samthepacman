@@ -146,7 +146,7 @@
 
 | 🔗 Email                     | ✍️ GitHub                   | 🌐 Portfolio         |
 |------------------------------|------------------------------|----------------------|
-| athxrvx@proton.me        | [@athxrvx](https://github.com/athxrvx) | soon |
+| athxrvx@proton.me        | [@athxrvx](https://github.com/athxrvx) | https://axrv.me |
 
 <br>
 <h3>listen to some music while you read/code</h3>
